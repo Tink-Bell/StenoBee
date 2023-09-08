@@ -1,7 +1,7 @@
 LONGEST_KEY = 1
 
 
-MAPPING = str.maketrans("VCHDTPBNLRMK", ".1234567890.", "QFSJX$GZAO")
+MAPPING = str.maketrans("KCDHTPBNRLMV", ".1234567890.", "QFSJX$GZAO")
 
 NUMBER_KEY = ";"
 FORWARDS = "E"
@@ -51,7 +51,7 @@ def lookup(stn):
     raise KeyError
 
 
-REV_MAPPING = str.maketrans("1234567890", "CHDTPBNLRM")
+REV_MAPPING = str.maketrans("1234567890", "CDHTPBNRLM")
 NUMERIC = ".1234567890"
 DOUBLE_DECIMAL = ";V-EI"
 
@@ -87,9 +87,9 @@ def reverse_lookup(text):
             suffix = "-E"
 
         if pre_decimal:
-            keys = "V" + keys
+            keys = "K" + keys
         if post_decimal:
-            keys += "K"
+            keys += "V"
         
         
         result.append(";" + keys + suffix)
