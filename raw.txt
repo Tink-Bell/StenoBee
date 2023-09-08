@@ -27779,6 +27779,11 @@ nation
 nation
 milk
 milk
+steno
+steno
+steno
+steno
+steno
 stone
 stone
 stone
@@ -33757,6 +33762,9 @@ copy
 copy
 copy
 temperature
+fingers
+fingers
+fingers
 finger
 finger
 value
@@ -56642,3 +56650,8 @@ instance
 girlfriend
 addable
 fixable
+StenoBee
+StenoBee
+StenoBee
+StenoBee
+StenoBee
