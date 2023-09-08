@@ -1,0 +1,41 @@
+If you want a more complete raw text file, an alternative one has been provided named "alt_raw.txt"
+
+I will also include an alt_list.txt file in the future.
+
+Replace the contents of this file with whatever text you want the 
+more quality clean text you add here, the more words will be added 
+to the dictionary when you run the python files provided
+
+
+If you are new to stenography:
+
+A stroke is a group of keyboard keys that are pressed simultaneously 
+to produce output. As soon as all keys on the keyboard are released, 
+the steno machine sends out that entire chord of key presses as a stroke.
+Plover converts that input into English words and phrases on the 
+screen, by using dictionaries.
+The dictionaries map a stroke (or a combination of strokes) to 
+an English word or phrase, number, punctuation symbol, emoji, 
+software command, or a meta command for controlling spacing and capitalization.
+Every stenographer creates their own customized dictionary to 
+supplement or amend the default dictionary that comes with a steno 
+application, such as Plover. By default, you add your customizations 
+to the user.json dictionary that comes with Plover.
+
+A steno machine, stenotype machine, shorthand machine, stenograph or steno writer is a 
+specialized chorded keyboard or typewriter used by stenographers for shorthand use. In 
+order to pass the United States Registered Professional Reporter test, a trained court 
+reporter or closed captioner must write speeds of approximately 180, 200, and 225 words 
+per minute (wpm) at very high accuracy in the categories of literary, jury charge, and 
+testimony, respectively.[1] Some stenographers can reach 300 words per minute. The website 
+of the California Official Court Reporters Association (COCRA) gives the official record 
+for American English as 375 wpm.[2]
+
+Demonstration 
+The stenotype keyboard has far fewer keys than a conventional alphanumeric keyboard. 
+Multiple keys are pressed simultaneously (known as "chording" or "stroking") to spell 
+out whole syllables, words, and phrases with a single hand motion. This system makes 
+realtime transcription practical for court reporting and live closed captioning. Because 
+the keyboard does not contain all the letters of the English alphabet, letter combinations 
+are substituted for the missing letters. There are several schools of thought on how to 
+record various sounds, such as the StenEd, Phoenix, and Magnum Steno theories.
