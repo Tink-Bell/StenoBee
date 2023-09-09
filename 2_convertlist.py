@@ -82,27 +82,48 @@ if len(sys.argv) != 1:
     print("Usage: python script_name.py")
     sys.exit(1)
 
-input_file = "list.txt"
+input_file_append = "append.txt"
+input_file_list = "list.txt"
+input_file_phrases = "phrases.txt"
 output_file = "StenoBee-User.json"
-append_file = "append.txt"  # New file for appending
 
 # Check if the input files exist
-if not os.path.isfile(input_file):
-    print(f"Error: The input file '{input_file}' does not exist.")
+if not os.path.isfile(input_file_append):
+    print(f"Error: The input file '{input_file_append}' does not exist.")
     sys.exit(1)
-if not os.path.isfile(append_file):
-    print(f"Error: The input file '{append_file}' does not exist.")
+if not os.path.isfile(input_file_list):
+    print(f"Error: The input file '{input_file_list}' does not exist.")
+    sys.exit(1)
+if not os.path.isfile(input_file_phrases):
+    print(f"Error: The input file '{input_file_phrases}' does not exist.")
     sys.exit(1)
 
 # Read the list of words from the input files
-with open(append_file, 'r') as f:
+with open(input_file_append, 'r') as f:
     append_words = [line.strip() for line in f]
 
-with open(input_file, 'r') as f:
-    words = [line.strip() for line in f]
+with open(input_file_list, 'r') as f:
+    list_words = [line.strip() for line in f]
 
-# Combine the words from "append.txt" and "list.txt"
-combined_words = append_words + words
+with open(input_file_phrases, 'r') as f:
+    phrases_words = [line.strip() for line in f]
+
+# Combine the words from "append.txt," "list.txt," and "phrases.txt," keeping the original order and removing duplicates
+combined_words = []
+
+# Function to add words to the combined list while removing duplicates
+def add_word(word):
+    if word not in combined_words:
+        combined_words.append(word)
+
+for word in append_words:
+    add_word(word)
+
+for word in list_words:
+    add_word(word)
+
+for word in phrases_words:
+    add_word(word)
 
 # Create a dictionary to store the encoded words
 encoded_words = {}
