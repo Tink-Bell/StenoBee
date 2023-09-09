@@ -118,7 +118,7 @@ after
 fa
 person
 said
-thats
+that's
 did
 go
 used
@@ -148,6 +148,7 @@ code
 few
 gov
 oh
+why
 imo
 day
 change
@@ -245,7 +246,6 @@ able
 honestly
 changes
 hey
-enchant
 looking
 test
 word
@@ -256,7 +256,6 @@ ever
 call
 her
 play
-usa
 goes
 wont
 two
@@ -289,6 +288,7 @@ against
 tiny
 asked
 maybe
+enchant
 half
 super
 true
@@ -332,6 +332,7 @@ area
 talk
 ran
 meaning
+simple
 bit
 apparently
 login
@@ -352,7 +353,7 @@ usually
 days
 dude
 array
-youre
+you're
 year
 level
 open
@@ -363,7 +364,6 @@ tree
 paying
 above
 least
-simple
 ago
 key
 gonna
@@ -717,7 +717,7 @@ smaller
 jobs
 interesting
 iq
-isnt
+isn't
 cars
 python
 mojang
@@ -861,6 +861,7 @@ ensure
 grapes
 housing
 sims
+anarchy
 fewer
 lines
 crazy
@@ -882,7 +883,7 @@ opinion
 nazi
 loop
 hands
-whats
+what's
 answers
 cry
 google
@@ -1003,8 +1004,7 @@ deleted
 younger
 prot
 exploits
-haskell
-youve
+you've
 themself
 amazing
 connection
@@ -1120,7 +1120,6 @@ branches
 exists
 cities
 whatnot
-anarchy
 mature
 default
 trust
@@ -1390,6 +1389,7 @@ wouldnt
 lga
 cancelling
 villager
+enchants
 afk
 battery
 christian
@@ -1537,6 +1537,7 @@ discuss
 guide
 score
 adjust
+hateful
 options
 exp
 mobs
@@ -1716,7 +1717,6 @@ fascism
 manhood
 replaceable
 beleive
-elon
 golem
 dumbest
 devs
@@ -1918,6 +1918,7 @@ regards
 nugget
 somewhere
 attacking
+pizza
 addition
 died
 medicine
@@ -1953,6 +1954,7 @@ warning
 consideration
 reviewing
 hardest
+recommending
 interested
 balancing
 legally
@@ -2041,6 +2043,7 @@ reported
 moderately
 overhead
 negate
+ink
 harbour
 husk
 horrible
@@ -2251,7 +2254,6 @@ variable
 victim
 willing
 yours
-re
 pro
 five
 sub
@@ -2471,7 +2473,6 @@ butane
 strangle
 forgot
 pebbles
-pizza
 caring
 hid
 wrist
@@ -2563,6 +2564,7 @@ haha
 lol
 messing
 technically
+recommendation
 partly
 dealing
 paths
@@ -2698,7 +2700,6 @@ audit
 draining
 preduct
 verk
-simpleanarchy
 phones
 became
 released
@@ -2768,6 +2769,7 @@ scam
 socialist
 nickname
 simulator
+kin
 maximal
 yall
 chisel
@@ -2962,7 +2964,6 @@ doom
 rendered
 emerald
 manually
-cas
 terrain
 suggesting
 skirts
@@ -3102,7 +3103,6 @@ normalization
 shutting
 multiplying
 unhealthy
-sooo
 sparked
 urea
 immensely
@@ -3157,6 +3157,7 @@ hotbar
 multithreaded
 rapists
 farts
+knit
 hte
 oracles
 remade
@@ -3287,6 +3288,7 @@ wealth
 wet
 wooden
 yell
+gate
 semi
 minded
 twenty
@@ -4073,7 +4075,6 @@ yeets
 vomite
 rasist
 absloutely
-bizza
 recongise
 fromat
 earmite
@@ -4732,7 +4733,6 @@ decreased
 optics
 searched
 abilities
-julia
 traditions
 allied
 racks
@@ -4785,7 +4785,6 @@ bald
 alot
 benchmark
 clusters
-ol
 focal
 inspections
 yen
@@ -5025,7 +5024,6 @@ renamed
 piracy
 europeans
 censorship
-ussr
 weighs
 blaze
 ideals
@@ -5041,7 +5039,6 @@ plague
 diluted
 piston
 inventories
-uf
 overly
 triggers
 airplanes
@@ -5160,7 +5157,6 @@ fluent
 streamlined
 primal
 netflix
-inv
 universally
 wildly
 mater
@@ -5244,7 +5240,6 @@ harmed
 capitalize
 boomers
 prosecute
-olde
 regulars
 dominating
 leftist
@@ -5270,7 +5265,7 @@ humid
 intervening
 groupings
 midterm
-shes
+she's
 floss
 inaccessible
 chased
@@ -5527,7 +5522,6 @@ autoplay
 duckling
 crystallized
 thorium
-atu
 stupidly
 displacing
 slur
@@ -5553,7 +5547,7 @@ writting
 confusingly
 offload
 evict
-weve
+we've
 prioritised
 revives
 snowballs
@@ -5610,6 +5604,7 @@ moisturize
 squander
 pissy
 gpus
+enchantment
 enchantments
 skyler
 perv
@@ -5973,3 +5968,4 @@ addictively
 girlfriend
 addable
 fixable
+gates

@@ -43366,6 +43366,10 @@ hate
 hate
 hate
 hate
+hateful
+hateful
+hateful
+hateful
 handle
 handle
 handle
@@ -52926,7 +52930,6 @@ decreased
 optics
 searched
 abilities
-julia
 dies
 dies
 dies
@@ -53758,7 +53761,6 @@ bending
 knocked
 knocked
 bro
-oa
 blows
 blows
 inevitably
@@ -53779,7 +53781,6 @@ europeans
 censorship
 healthier
 healthier
-ussr
 rustic
 rustic
 rustic
@@ -53804,7 +53805,6 @@ plague
 diluted
 piston
 inventories
-uf
 magenta
 magenta
 overly
@@ -54100,13 +54100,6 @@ ignores
 ignores
 ignores
 ignores
-haskell
-haskell
-haskell
-haskell
-haskell
-haskell
-haskell
 attaching
 explosions
 fem
@@ -54132,7 +54125,6 @@ primal
 netflix
 outage
 outage
-inv
 tedious
 tedious
 universally
@@ -54308,8 +54300,6 @@ empathy
 civilized
 cultivate
 coax
-sooo
-sooo
 interacts
 dictatorship
 dang
@@ -54320,7 +54310,6 @@ boomers
 sparked
 sparked
 prosecute
-olde
 enchanting
 enchanting
 enchanting
@@ -54388,7 +54377,7 @@ humid
 intervening
 groupings
 midterm
-shes
+she's
 floss
 inaccessible
 bedrock
@@ -56669,7 +56658,6 @@ craftable
 written
 often
 have
-a
 wasted
 addictively
 instance
@@ -56681,3 +56669,6 @@ StenoBee
 StenoBee
 StenoBee
 StenoBee
+gate
+gate
+gates
