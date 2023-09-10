@@ -154,5 +154,5 @@ with open(output_file, 'w') as f:
                 f.write(",\n")
     f.write("\n}")  # Add the closing curly brace
 
-print("Encoding complete. Output saved to", output_file)
+print("Converting complete. Output saved to", output_file)
 

@@ -51,7 +51,7 @@ def main():
         for word, frequency in ranked_words:
             ranked_file.write(f'{word}\n')
 
-    print(f"Words without vowels or with only vowels removed and ranked by frequency. Output saved to '{args.output_file}'")
+    print(f"Words Cleaned and Ranked . Output saved to '{args.output_file}'")
 
 if __name__ == "__main__":
     main()
