@@ -63,17 +63,17 @@ def encode_word(word, encoded_words):
 # Function to generate the next suffix in the sequence
 def next_suffix(suffix):
     if suffix == 'QJ':
-        return 'QX'
-    elif suffix == 'QX':
+        return 'XQ'
+    elif suffix == 'XQ':
         return 'QZ'
     elif suffix == 'QZ':
-        return 'QK'
-    elif suffix == 'QK':
-        return 'VQ'
-    elif suffix == 'VQ':
-        return 'QF'
-    elif suffix == 'QF':
-        return 'QH'
+        return 'KQ'
+    elif suffix == 'KQ':
+        return 'QV'
+    elif suffix == 'QV':
+        return 'FQ'
+    elif suffix == 'FQ':
+        return 'HQ'
     else:
         return None
 
