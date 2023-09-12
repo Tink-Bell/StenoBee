@@ -26,8 +26,8 @@ def rank_words(text):
     return ranked_words
 
 def main():
-    default_input_file = "raw_common.txt"
-    default_output_file = "list_common.txt"
+    default_input_file = "user_raw_common.txt"
+    default_output_file = "user_list_common.txt"
 
     parser = argparse.ArgumentParser(description="Remove lines with vowelless or vowel-only words from a text file and rank words by frequency.")
     parser.add_argument("-i", "--input_file", default=default_input_file, help=f"Name of the input file (default: {default_input_file})")

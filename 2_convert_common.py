@@ -82,9 +82,9 @@ if len(sys.argv) != 1:
     print("Usage: python script_name.py")
     sys.exit(1)
 
-input_file_append = "append_common.txt"
-input_file_list = "list_common.txt"
-input_file_phrases = "phrases_common.txt"
+input_file_append = "required_common.txt"
+input_file_list = "user_list_common.txt"
+input_file_phrases = "extras_common.txt"
 output_file = "StenoBee-Common.json"
 
 # Check if the input files exist
@@ -108,7 +108,7 @@ with open(input_file_list, 'r') as f:
 with open(input_file_phrases, 'r') as f:
     phrases_words = [line.strip() for line in f]
 
-# Combine the words from "append.txt," "list.txt," and "phrases.txt," keeping the original order and removing duplicates
+# Combine the words from keeping the original order and removing duplicates
 combined_words = []
 
 # Function to add words to the combined list while removing duplicates

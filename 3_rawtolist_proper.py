@@ -12,8 +12,8 @@ def sort_lines_by_length_and_remove_duplicates(input_file, output_file):
         file.write('\n'.join(sorted_lines))
 
 # Input and output file paths
-input_file = 'raw_proper.txt'
-output_file = 'list_proper.txt'
+input_file = 'user_raw_proper.txt'
+output_file = 'user_list_proper.txt'
 
 # Call the function to sort lines by length and remove duplicates
 sort_lines_by_length_and_remove_duplicates(input_file, output_file)
