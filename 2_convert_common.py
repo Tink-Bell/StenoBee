@@ -7,6 +7,9 @@ vowel_mapping = {
     'y': 'AE',
     'u': 'EI',
     'w': 'IO',
+    'Y': 'AE',
+    'U': 'EI',
+    'W': 'IO',
 }
 
 # Function to replace characters in a word

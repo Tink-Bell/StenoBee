@@ -179,9 +179,9 @@ help
 really
 block
 item
+player
 keep
 vote
-player
 around
 whole
 during
@@ -340,6 +340,7 @@ shows
 protection
 post
 run
+current
 else
 history
 login
@@ -348,7 +349,6 @@ blue
 base
 word
 least
-current
 user
 against
 outside
@@ -5485,6 +5485,10 @@ swastikas
 telekinesis
 undoes
 buzz
+glue
+venting
+vent
+gluing
 sur
 gig
 den
@@ -6122,6 +6126,7 @@ mandate
 nightmare
 civilization
 ma'am
+madam
 facilitate
 adoption
 administrative
@@ -6851,14 +6856,9 @@ sabotaged
 aright
 backfires
 offloading
-dhar
-desantis
-playe
-rossman
 psuedo
 messager
 aquiline
-curren
 tought
 ouput
 neurotoxin
