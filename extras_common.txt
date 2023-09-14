@@ -1,3 +1,4 @@
+A quick brown fox jumps over the lazy dog.
 Monday
 Tuesday
 Wednesday
@@ -17,6 +18,7 @@ September
 October
 November
 December
+StenoBee
 of the
 in the
 to the
