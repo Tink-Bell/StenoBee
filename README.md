@@ -4,4 +4,4 @@
 
 ![stenobee system layout](newlayout.png)
 
-!(https://github.com/Tink-Bell/StenoBee/assets/143440063/93d774e2-1520-4946-b392-ee615efcdcfb)
+![Q series](https://github.com/Tink-Bell/StenoBee/assets/143440063/f79abf35-92f5-4ec4-8302-0fbd62c129a4)
