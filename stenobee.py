@@ -1,6 +1,6 @@
 from plover.system.english_stenotype import *
 
-KEYS = (';-', 'K-', 'X-', 'C-', 'F-', 'D-', 'S-', 'H-', 'Q-', 'T-', 'P-', 'B-', 'J-', 'N-', 'G-', 'R-', '$-', 'L-', 'Z-', 'M-', 'V-', '-A', '-E', '-I', '-O')
+KEYS = (';-', 'K-', 'Z-', 'C-', 'F-', 'D-', 'S-', 'H-', 'Q-', 'T-', 'P-', 'B-', 'J-', 'N-', 'G-', 'R-', '$-', 'L-', 'X-', 'M-', 'V-', '-A', '-E', '-I', '-O')
 
 IMPLICIT_HYPHEN_KEYS = ()
 SUFFIX_KEYS = ()
@@ -16,7 +16,7 @@ KEYMAPS = {
  'Keyboard': {
 	';-'         : 'u',
 	'K-'         : 'k',
-	'X-'         : 'x',
+	'Z-'         : 'z',
 	'C-'         : 'c',
 	'F-'         : 'f',
 	'D-'         : 'd',
@@ -32,7 +32,7 @@ KEYMAPS = {
 	'R-'         : 'r',
 	'$-'         : '4',
 	'L-'         : 'l',
-	'Z-'         : 'z',
+	'X-'         : 'x',
 	'M-'         : 'm',
 	'V-'         : 'v',
 	'-A'         : 'a',

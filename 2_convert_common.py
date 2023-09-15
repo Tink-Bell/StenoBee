@@ -2,7 +2,7 @@ import sys
 import os
 
 # Define the letter order and vowel mapping
-letter_order = "KXCFDSHQTPBJNGRLZMV-AEIO"
+letter_order = "KZCFDSHQTPBJNGRLXMV-AEIO"
 vowel_mapping = {
     'y': 'AE',
     'u': 'EI',
@@ -67,10 +67,10 @@ def encode_word(word, encoded_words):
 # Function to generate the next suffix in the sequence
 def next_suffix(suffix):
     if suffix == 'QJ':
-        return 'XQ'
-    elif suffix == 'XQ':
-        return 'QZ'
-    elif suffix == 'QZ':
+        return 'QX'
+    elif suffix == 'QX':
+        return 'ZQ'
+    elif suffix == 'ZQ':
         return 'KQ'
     elif suffix == 'KQ':
         return 'QV'
