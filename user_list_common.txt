@@ -3907,6 +3907,7 @@ specialist
 cup
 zone
 sighted
+firm
 administration
 defense
 mustard
@@ -5004,7 +5005,6 @@ cash
 emergency
 lit
 delayed
-firm
 collection
 international
 employee
@@ -5175,6 +5175,7 @@ accounting
 freely
 disturbing
 murderer
+burger
 comments
 pages
 records
@@ -5363,7 +5364,9 @@ masculine
 funniest
 dagger
 elevations
+pangram
 hubble
+brief
 boosts
 impeachment
 outsiders
@@ -7551,7 +7554,6 @@ consecutive
 accurately
 risky
 rude
-burger
 wheat
 reserved
 listing
@@ -8156,7 +8158,14 @@ reinforcing
 scarcely
 craving
 suicidal
+pangrams
 hub
+birch
+merge
+nurse
+urge
+splurge
+briefs
 thugs
 acquaintance
 menstrual
