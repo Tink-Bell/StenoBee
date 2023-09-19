@@ -7,7 +7,7 @@
   
 
 >
-![newlayout](https://github.com/Tink-Bell/StenoBee/assets/143440063/7dee2959-2831-4005-86fd-8fa9858dd3f0)
+![newlayout](https://github.com/Tink-Bell/StenoBee/assets/143440063/5c118e66-81b2-47ea-9bec-4a97d7d44bc5)
 > 
   
 >
