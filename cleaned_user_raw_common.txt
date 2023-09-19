@@ -257955,12 +257955,6 @@ reputation
 reputation
 reputation
 reputattion
-req
-req
-req
-req
-req
-req
 request
 request
 request
@@ -258016,7 +258010,7 @@ requests
 requests
 requests
 requests
-requiest
+request
 require
 require
 require
@@ -374112,11 +374106,10 @@ turns
 turns
 turns
 turns
-turqoise
 turquoise
 turquoise
 turquoise
-turth
+truth
 turtle
 turtle
 turtle
