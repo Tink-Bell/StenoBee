@@ -1,7 +1,7 @@
 A quick brown fox jumps over the lazy dog.
 Monday
 Tuesday
-Wednesday
+wednesday
 Thursday
 Friday
 Saturday
@@ -1630,6 +1630,7 @@ you need to
 way that
 think it
 a part
+deja vu
 to improve
 was more
 the center

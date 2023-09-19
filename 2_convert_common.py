@@ -2,14 +2,9 @@ import sys
 import os
 
 # Define the letter order and vowel mapping
-letter_order = "KZCFDSHQTPBJNGRLXMV-AEIO"
+letter_order = "KZCFDSHQTPBJNGRLXMV-OAEI"
 vowel_mapping = {
-    'y': 'AE',
-    'u': 'EI',
-    'w': 'IO',
-    'Y': 'AE',
-    'U': 'EI',
-    'W': 'IO',
+'w': 'OA',	'u': 'OI',	'y': 'EI',
 }
 
 # Function to replace characters in a word
@@ -138,20 +133,27 @@ for word in list_words:
 for word in phrases_words:
     add_word(word)
 
-# Initialize the dictionary
+# Initialize the dictionary and list for overflow words
 encoded_words = {}
 encoded_suffix_words = {}
+overflow_words = []
 
 # Encode the words and store them in the dictionary
 for word in combined_words:
     encoded_versions = encode_word(word, encoded_words)  # Pass encoded_words as an argument
     if encoded_versions is None:
+        overflow_words.append(word)  # Add the word to the overflow list
         continue
     for encoded_word in encoded_versions:
         if encoded_word:
             if "/" in encoded_word:
                 encoded_suffix_words[combine_suffix(encoded_word)] = word
             encoded_words[encoded_word] = word
+
+# Write the words with None result to the "overflow.txt" file
+with open("overflow.txt", 'w') as overflow_file:
+    for word in overflow_words:
+        overflow_file.write(f"{word}\n")
 
 # Write the encoded words to the output file
 with open(output_file, 'w') as f:
