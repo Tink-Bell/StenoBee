@@ -149,10 +149,10 @@ trying
 take
 world
 added
+doesn't
 making
 too
 update
-doesn't
 each
 makes
 whole
@@ -338,8 +338,8 @@ own
 hours
 max
 running
-goes
 testing
+goes
 tried
 different
 needed
@@ -438,9 +438,9 @@ easy
 her
 high
 mobs
+true
 showing
 today
-true
 non
 plan
 question
@@ -1329,6 +1329,7 @@ charge
 commands
 complex
 concrete
+costs
 craft
 design
 fingers
@@ -1366,7 +1367,6 @@ checker
 commonly
 consider
 cops
-costs
 creative
 disabled
 ended
@@ -4469,6 +4469,7 @@ trailer
 transaction
 trends
 trickier
+triple
 troops
 truck
 tube
@@ -4696,7 +4697,6 @@ dismissed
 distracting
 docs
 documents
-doesn
 doom
 dreams
 drift
@@ -4726,6 +4726,7 @@ equality
 equate
 equation
 ergo
+escape
 essence
 estate
 estimated
@@ -5133,7 +5134,6 @@ transpeople
 traveled
 traveling
 trillion
-triple
 trucks
 turds
 undid
@@ -5411,7 +5411,6 @@ dads
 dancing
 dangers
 dataset
-de
 dealers
 deathbound
 debuff
@@ -5451,12 +5450,11 @@ displays
 distinguish
 divides
 dming
-do'nt
+documented
 doctors
 documentary
 dodged
 dodging
-doent
 domains
 donkey
 doors
@@ -5508,7 +5506,6 @@ entitled
 enzymes
 equity
 erases
-es
 excess
 excessive
 exchange
@@ -6089,6 +6086,7 @@ surrender
 surrounded
 survive
 sus
+suspicious
 sweat
 syllable
 symmetrical
@@ -6363,6 +6361,7 @@ attendant
 attracting
 authed
 authoritarianism
+autism
 averaged
 averages
 awaiting
@@ -6687,10 +6686,6 @@ distro
 distrust
 disturbing
 diverge
-documented
-doen't
-doesnt
-doest
 dolphin
 donators
 donedone
@@ -6758,7 +6753,6 @@ environmental
 epic
 equalizer
 eroded
-escape
 essay
 essentialy
 establishing
@@ -7747,7 +7741,6 @@ supremacists
 surprising
 suspecting
 suspended
-suspicious
 sustain
 swappable
 swapped
@@ -7811,6 +7804,7 @@ tought
 trail
 trails
 trained
+transferring
 transit
 translation
 transmission
@@ -8324,7 +8318,6 @@ authored
 authoritarians
 authorities
 authorize
-autism
 autocracy
 automagically
 automatable
@@ -8928,9 +8921,7 @@ correlate
 correlated
 corresponds
 corrupts
-costo
 cottage
-coul
 coulnd't
 counrties
 counselling
@@ -9244,21 +9235,16 @@ divinely
 divorces
 djuring
 dm'ing
-doccumented
 dock
 doctrine
 documentaries
 documentation
 documenting
-doesl
-doesmore
 gentleman
 gentlemen
 doggy
 dogma
 dogmatists
-doign
-doin
 dome
 domed
 dominant
@@ -12097,7 +12083,6 @@ surge
 surgeon
 surgical
 surviving
-suscipious
 suspending
 suspicion
 suspposed
@@ -12177,7 +12162,7 @@ technician
 technique
 teenage
 teenagers
-teirs
+tiers
 teleporter
 temper
 temperatures
@@ -12261,10 +12246,7 @@ tinkerer
 tipping
 tires
 tiring
-tis
-tism
 tissue
-tisting
 titles
 todays
 toddler
@@ -12311,8 +12293,6 @@ transcribe
 transcribing
 transfem
 transfered
-transfering
-transferring
 transfers
 transformed
 transformer
@@ -12968,7 +12948,6 @@ onion's
 oopsies
 ordeal
 overweight
-oxygen
 pads
 pal
 papa
@@ -13076,9 +13055,7 @@ transactional
 transmasc
 trashed
 trastier
-tripple
 trolley
-tru
 tuck
 tumbleweed
 turkey
