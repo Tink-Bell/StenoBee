@@ -1,0 +1,35 @@
+name: PyPI Release
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - "*"
+jobs:
+  # Adapted from: https://github.com/pypa/gh-action-pypi-publish#usage
+  pypi-publish:
+    if: ${{ startsWith(github.ref, 'refs/tags') }}
+    name: Build, Lint, Test, Release to PyPI
+    runs-on: ubuntu-latest
+    environment:
+      name: release
+      url: https://pypi.org/project/plover-stenobee/
+    permissions:
+      id-token: write
+    steps:
+      - name: Clone Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+      - name: Install Build
+        run: python -m pip install --upgrade build
+
+      - name: Build
+        run: python -m build
+
+      - name: Publish to PyPI
+        uses: pypa/gh-action-pypi-publish@release/v1
