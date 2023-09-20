@@ -2554,6 +2554,7 @@ secondary
 settled
 shovel
 shutdown
+skipping
 slots
 somewhere
 spelled
@@ -2713,7 +2714,6 @@ shots
 shulker
 six
 skins
-skipping
 smelter
 smooth
 stage
@@ -10554,6 +10554,7 @@ metrosexual
 micro
 microphone
 microwave
+dim
 middleman
 middlemen
 midjourney
@@ -11804,7 +11805,6 @@ skewing
 skillfully
 skim
 skinhead
-skiping
 skit
 skull
 skyrocket
