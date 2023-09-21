@@ -1,0 +1,2 @@
+include stenobee/assets/*
+include stenobee/__init__.py
