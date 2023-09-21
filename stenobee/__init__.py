@@ -44,3 +44,23 @@ KEYMAPS = {
         'no-op'     : ''
     }
 }
+
+DICTIONARIES_ROOT = 'asset:stenobee:assets'
+
+DEFAULT_DICTIONARIES = (
+    'StenoBee-Common.json',
+    'StenoBee-Core.json',
+    'StenoBee-elements.json',
+    'StenoBee-molecules.json',
+    'StenoBee-Pokemon.json',
+)
+
+
+
+
+
+
+
+
+
+
