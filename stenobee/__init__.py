@@ -48,12 +48,12 @@ KEYMAPS = {
 DICTIONARIES_ROOT = 'asset:stenobee:assets'
 
 DEFAULT_DICTIONARIES = (
-    'StenoBee-Common.json',
     'StenoBee-Core.json',
+    'StenoBee-Numbers.py',
+    'StenoBee-Common.json',
     'StenoBee-elements.json',
     'StenoBee-molecules.json',
     'StenoBee-Pokemon.json',
-    'StenoBee-Numbers.py',
 )
 
 
