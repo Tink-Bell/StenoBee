@@ -801,6 +801,7 @@ deal
 dimension
 existing
 focus
+hold
 output
 particles
 send
@@ -827,7 +828,6 @@ breaking
 ensure
 function
 grow
-hold
 stone
 understand
 wish
@@ -2507,7 +2507,6 @@ graphing
 guessing
 heavily
 helm
-hole
 hte
 icon
 immune
@@ -3464,6 +3463,7 @@ hanging
 happily
 hating
 hats
+holes
 holy
 hopes
 humanity
@@ -3777,6 +3777,7 @@ grief
 handmaids
 hasn't
 healthy
+hello
 hi
 hill
 hint
@@ -4207,6 +4208,7 @@ hateful
 hierarchy
 hired
 holds
+hole
 homerow
 honey
 hop
@@ -5627,7 +5629,6 @@ highlighted
 highlighting
 hire
 historian
-holes
 holo
 homework
 hoped
@@ -6964,7 +6965,6 @@ headaches
 heap
 hearings
 heck
-hello
 helpers
 hemorrhoids
 hero
