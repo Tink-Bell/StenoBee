@@ -9198,6 +9198,9 @@ diplomacy
 dipshits
 directing
 directories
+disambiguate
+disambiguation
+disambiguator
 disappeared
 disappearing
 disapproval
