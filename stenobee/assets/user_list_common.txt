@@ -55,6 +55,7 @@ thing
 time
 know
 yeah
+don't
 now
 right
 up
@@ -97,7 +98,6 @@ because
 where
 issue
 sure
-don't
 stuff
 were
 made
@@ -118,8 +118,8 @@ part
 anvil
 over
 dev
-go
 than
+go
 things
 been
 before
@@ -145,6 +145,7 @@ might
 add
 got
 let
+didn't
 trying
 take
 world
@@ -156,7 +157,6 @@ update
 each
 makes
 whole
-dont
 down
 look
 next
@@ -167,15 +167,15 @@ name
 off
 able
 few
-long
 someone
+long
 words
 issues
 fix
 keep
+having
 word
 shit
-having
 help
 getting
 map
@@ -188,11 +188,11 @@ here
 really
 find
 vote
+done
 based
 armor
 little
 better
-done
 bug
 cost
 likely
@@ -210,7 +210,6 @@ start
 these
 config
 said
-didn't
 due
 lot
 far
@@ -228,9 +227,9 @@ day
 blocks
 login
 wanted
+either
 instead
 around
-either
 always
 book
 found
@@ -242,9 +241,9 @@ very
 hope
 looking
 during
+thats
 pack
 show
-thats
 point
 again
 place
@@ -334,13 +333,13 @@ meaning
 lets
 image
 own
+different
 hours
 max
 running
 testing
 goes
 tried
-different
 needed
 remove
 wrong
@@ -373,7 +372,6 @@ later
 wont
 pretty
 type
-didnt
 fire
 share
 steno
@@ -391,8 +389,8 @@ couple
 weird
 main
 cool
-stop
 small
+stop
 chunks
 month
 others
@@ -493,6 +491,7 @@ log
 call
 glad
 anyone
+default
 shift
 client
 sounds
@@ -503,18 +502,17 @@ normal
 vowel
 water
 nah
-default
 everything
 grindstone
 limit
 similar
 files
 bit
+delete
 drop
 man
 under
 clicking
-delete
 enchanted
 watch
 layout
@@ -564,6 +562,7 @@ learn
 avoid
 repair
 screen
+donation
 golden
 happen
 lost
@@ -572,7 +571,6 @@ method
 nether
 reward
 state
-donation
 helps
 party
 uses
@@ -580,6 +578,7 @@ worth
 you've
 ran
 trans
+download
 fine
 limiter
 news
@@ -599,7 +598,6 @@ leave
 unless
 answer
 choose
-download
 given
 hate
 minutes
@@ -611,12 +609,12 @@ term
 user
 art
 asked
+difference
 here's
 sent
 spent
 stay
 biggest
-difference
 entire
 finally
 manually
@@ -663,6 +661,7 @@ ignore
 internet
 require
 rule
+soul
 asking
 games
 green
@@ -671,7 +670,6 @@ jar
 myself
 ready
 rewards
-soul
 texture
 count
 feeling
@@ -828,13 +826,13 @@ breaking
 ensure
 function
 grow
+slowly
 stone
 understand
 wish
 yesterday
 drain
 lagging
-slowly
 store
 worse
 access
@@ -970,6 +968,7 @@ edge
 experience
 feature
 form
+haven't
 impact
 language
 light
@@ -996,6 +995,7 @@ problems
 reload
 resource
 shot
+smaller
 stroke
 taken
 tech
@@ -1014,7 +1014,7 @@ mouse
 quickly
 row
 self
-smaller
+slow
 tax
 wants
 agree
@@ -1030,7 +1030,6 @@ interesting
 luck
 personal
 randomly
-slow
 spread
 anti
 applied
@@ -1051,6 +1050,7 @@ balance
 boost
 connected
 crazy
+deleting
 lava
 law
 none
@@ -1064,7 +1064,6 @@ users
 watching
 center
 credit
-deleting
 durability
 early
 enemy
@@ -1416,7 +1415,6 @@ groups
 grows
 guide
 handling
-haven't
 hearts
 inventory
 island
@@ -1688,6 +1686,7 @@ creation
 cry
 debug
 dimensions
+display
 donated
 elytra
 exists
@@ -1711,6 +1710,7 @@ reports
 shorter
 shown
 slightly
+solid
 sources
 strike
 talks
@@ -1740,7 +1740,6 @@ counter
 cross
 daily
 dick
-display
 events
 fell
 fighting
@@ -1772,7 +1771,6 @@ rich
 ruby
 scare
 seriously
-solid
 son
 suffix
 ten
@@ -1853,13 +1851,13 @@ clearing
 crime
 detail
 dollars
+door
 dyes
 excited
 field
 finished
 fresh
 greater
-havent
 hell
 illegal
 impossible
@@ -1920,7 +1918,6 @@ critical
 differently
 distinct
 dog
-door
 dying
 effectively
 excuse
@@ -2213,6 +2210,7 @@ sees
 sentence
 shop
 software
+solution
 sorts
 spamming
 square
@@ -2237,6 +2235,7 @@ allocated
 app
 arrows
 avoiding
+bet
 browser
 bucks
 builds
@@ -2258,6 +2257,7 @@ currency
 cycle
 database
 density
+describe
 direct
 doable
 donors
@@ -2338,7 +2338,6 @@ article
 asleep
 badge
 bed
-bet
 binary
 bound
 branch
@@ -2361,8 +2360,8 @@ crossing
 dance
 daughter
 delayed
-describe
 dickhead
+diff
 directions
 dragon
 drama
@@ -2400,6 +2399,7 @@ leak
 listen
 management
 mature
+met
 mid
 migrate
 minimize
@@ -2430,7 +2430,6 @@ science
 secret
 sizes
 sold
-solution
 spawning
 stacks
 stats
@@ -2482,13 +2481,14 @@ counts
 covid
 creates
 customer
+dating
 decade
 defend
 define
 definitely
 demo
-diff
 donor
+downloaded
 duping
 dust
 dwarf
@@ -2507,7 +2507,6 @@ graphing
 guessing
 heavily
 helm
-hte
 icon
 immune
 influence
@@ -2520,7 +2519,6 @@ liquid
 lying
 marrow
 melee
-met
 minimal
 mixing
 mother
@@ -2581,6 +2579,7 @@ transitioning
 unique
 universe
 warden
+wet
 whose
 yeet
 you'll
@@ -2628,7 +2627,6 @@ copied
 covers
 creepy
 cup
-dating
 debt
 decides
 decimal
@@ -2637,7 +2635,6 @@ decrease
 dies
 diving
 document
-downloaded
 dress
 drug
 dumbest
@@ -2741,7 +2738,6 @@ volume
 voter
 wasted
 weekend
-wet
 whenever
 wine
 woke
@@ -2881,6 +2877,7 @@ scenes
 scheduled
 scripting
 selector
+settings
 shoes
 sonority
 stamina
@@ -3073,7 +3070,6 @@ scene
 season
 sends
 serve
-settings
 shade
 shame
 shelves
@@ -3100,7 +3096,6 @@ tasks
 teaching
 tedious
 tempted
-tha
 theres
 thin
 tickets
@@ -3422,6 +3417,7 @@ desperate
 destruction
 diamonds
 dictator
+disabling
 displayed
 distract
 distribution
@@ -3437,7 +3433,6 @@ entered
 episodes
 equiped
 estrogen
-et
 euros
 evenly
 ex
@@ -3482,6 +3477,7 @@ laid
 launch
 launcher
 liberal
+lighter
 lights
 likes
 listing
@@ -3705,6 +3701,7 @@ cultural
 cure
 curves
 customize
+damaging
 darker
 deaths
 decay
@@ -3722,7 +3719,6 @@ dialects
 dicks
 difficulty
 dingus
-disabling
 disaster
 disconnect
 discords
@@ -3813,7 +3809,6 @@ lesser
 let's
 libertarians
 libs
-lighter
 listener
 litterally
 locking
@@ -4108,7 +4103,6 @@ cram
 crisis
 crops
 customizable
-dalle
 dear
 decision
 declaring
@@ -4132,7 +4126,6 @@ distraction
 divided
 dogs
 donator
-donw
 downloading
 downsides
 draft
@@ -4471,7 +4464,6 @@ templates
 tenants
 tester
 testosterone
-thatt
 theocracy
 theses
 they've
@@ -4661,7 +4653,6 @@ cubes
 cutter
 cyber
 damages
-damaging
 daylight
 dealt
 debated
@@ -4687,9 +4678,7 @@ developers
 device
 diabetes
 diagram
-did'nt
 differ
-differen
 digging
 dirty
 disables
@@ -4738,8 +4727,6 @@ escape
 essence
 estate
 estimated
-estradiol
-ether
 excel
 exhausting
 existed
@@ -5095,6 +5082,7 @@ slider
 smartest
 smoking
 sneaking
+soldier
 sorta
 sought
 southwest
@@ -5447,7 +5435,6 @@ detached
 detect
 devaluation
 developing
-didn
 digger
 digit
 directed
@@ -5460,7 +5447,6 @@ discs
 displays
 distinguish
 divides
-dming
 doctors
 documentary
 documented
@@ -5486,7 +5472,6 @@ dungeons
 earning
 ears
 ebony
-ebook
 echants
 ecosystem
 eff
@@ -6057,7 +6042,6 @@ snows
 soaked
 socially
 socks
-soldier
 solutions
 somebody
 sorted
@@ -6629,7 +6613,6 @@ cuttoff
 cycles
 dagger
 dairy
-damageing
 dates
 daycare
 deadline
@@ -6647,7 +6630,6 @@ defeating
 defended
 defender
 definitive
-defualt
 delicate
 delivers
 deltoid
@@ -6688,7 +6670,6 @@ diminishes
 ding
 dining
 dinosaurs
-dioes
 dip
 dips
 dipthongs
@@ -6717,13 +6698,11 @@ dito
 diverge
 dolphin
 donators
-donedone
 donut
 doomed
 dotted
 doubles
 doubts
-dowload
 downplay
 downpour
 downtime
@@ -6789,6 +6768,8 @@ essentialy
 establishing
 estimate
 estimates
+estradiol
+ether
 ethical
 ethnicity
 evacuated
@@ -7725,7 +7706,6 @@ soap
 soda
 softer
 soldiers
-sollution
 someone's
 somthing
 sonic
@@ -9090,7 +9070,7 @@ deals
 debit
 debloating
 debris
-debuging
+debugging
 debunk
 debunking
 decals
@@ -9109,25 +9089,19 @@ deducting
 deeds
 deems
 deer
-defaul
 defaulting
 defensiveness
 deficiencies
 deficient
 defies
 deflate
-defult
 defuse
 defying
 degeneracy
 degrade
-deja
-dejavu
 delegates
-delet
 deleter
 delets
-deletting
 delighted
 delta
 deltas
@@ -9146,7 +9120,6 @@ dense
 dented
 dentist
 denying
-deoes
 deop
 deoped
 dependencies
@@ -9180,7 +9153,6 @@ despair
 despawn
 despicable
 despised
-desribe
 destruct
 destructive
 detachable
@@ -9189,9 +9161,7 @@ detector
 detectors
 determined
 determinism
-deting
 devalued
-deve
 developement
 deviate
 deviates
@@ -9210,10 +9180,6 @@ dicord
 dictating
 dictatorships
 diddly
-didntt
-dif
-differene
-differentce
 differnces
 digestible
 diggers
@@ -9228,17 +9194,10 @@ dime
 dimensional
 dimesion
 diminsions
-din't
-dind't
-dindt
-dint
-dione
-diont
 diplomacy
 dipshits
 directing
 directories
-disableing
 disappeared
 disappearing
 disapproval
@@ -9276,7 +9235,6 @@ disorder
 disorienting
 disorients
 dispacement
-dispay
 dispite
 displacing
 disposable
@@ -9300,7 +9258,6 @@ district
 districts
 distros
 disturbed
-ditd
 diver
 diverged
 divergence
@@ -9312,8 +9269,6 @@ dividable
 divider
 divinely
 divorces
-djuring
-dm'ing
 dock
 doctrine
 documentaries
@@ -9329,10 +9284,8 @@ dominant
 dominates
 dominating
 domineering
-donaion
 donos
 doomsday
-dooor
 doormat
 dorm
 dosed
@@ -9340,12 +9293,10 @@ doses
 dosing
 dot
 dots
-doubleing
+doubling
 doubted
 doubting
-dowloaded
 downfall
-downloa
 downloadable
 downs
 downscale
@@ -9420,7 +9371,6 @@ easer
 easies
 ebeggar
 ebegging
-ebloid
 echant
 echanting
 echoes
@@ -9541,10 +9491,8 @@ esque
 establish
 established
 establishment
-ethe
 ethic
 ethnonationalists
-ettings
 eurphoric
 evacuating
 evadable
@@ -10024,10 +9972,6 @@ haters
 hatever
 hatter
 haunting
-havee
-havethe
-havign
-havin
 hay
 hayday
 hazard
@@ -10125,8 +10069,6 @@ hourglass
 hourly
 housemaster
 hovered
-hsould
-htat
 hubby
 hugely
 humanities
@@ -10527,7 +10469,6 @@ licensed
 lieu
 lifelong
 lighest
-lighte
 lightyear
 lik
 likel
@@ -12067,11 +12008,7 @@ slick
 sliot
 slits
 slitting
-slowely
-slowh
 slumped
-smal
-smalle
 smarties
 smartly
 smarty
@@ -12079,7 +12016,6 @@ smeared
 smelled
 smelly
 smelting
-smething
 smiled
 smokes
 smokey
@@ -12110,21 +12046,14 @@ societal
 societies
 socket
 sodas
-soe
 soften
 soil
-solders
 sole
-solide
-soll
 solves
 solving
 somatic
 someday
-somehing
-somehting
 somekind
-somene
 somepeople
 somestuff
 somethings
@@ -12385,6 +12314,7 @@ sytax
 sythe
 tablet
 tablist
+tabloid
 tack
 tackle
 tacos
@@ -12471,11 +12401,7 @@ texting
 texts
 textured
 texturing
-thaat
 thanked
-thatsthe
-thatts
-thay
 theatre
 thecommand
 thecustom
