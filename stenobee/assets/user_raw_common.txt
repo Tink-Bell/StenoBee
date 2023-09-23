@@ -69114,7 +69114,7 @@ court
 court
 courts
 courts
-couuld
+could
 cover
 cover
 cover
@@ -189963,7 +189963,7 @@ mana
 mana
 mana
 mana
-managable
+manageable
 manage
 manage
 manage
@@ -190016,7 +190016,7 @@ managing
 managing
 managing
 managing
-managment
+management
 manually
 manually
 mandate
@@ -196464,8 +196464,6 @@ mind
 mind
 mind
 mind
-mindblowing
-mindboggling
 minded
 minded
 minded
@@ -196476,7 +196474,6 @@ minded
 minded
 mindedly
 mindful
-mindgames
 mindless
 minds
 minds
@@ -197018,7 +197015,7 @@ missions
 missions
 missions
 missions
-missmatched
+mismatched
 misspelled
 mistake
 mistake
@@ -197061,12 +197058,12 @@ mistakes
 mistakes
 mistakes
 mistakes
-misuderstood
+misunderstood
 misunderstanding
 misuse
 mite
 mitigate
-miuntes
+minutes
 mix
 mix
 mix
@@ -197157,12 +197154,12 @@ mixing
 mixing
 mixing
 mixing
-mixmatching
+mix-matching
 mixup
 mixup
 mixup
-mnually
-mnutes
+manually
+minutes
 moan
 moaned
 mob
@@ -200954,7 +200951,7 @@ mouth
 mouth
 mouth
 mouthpiece
-mov
+move
 movable
 move
 move
@@ -201266,7 +201263,7 @@ moved
 moved
 moved
 moved
-movemens
+movements
 movement
 movement
 movement
@@ -201284,9 +201281,9 @@ movement
 movement
 movement
 movement
-movement's
 movements
 movements
+movements
 moves
 moves
 moves
@@ -201469,7 +201466,7 @@ moving
 moving
 moving
 moving
-mreally
+really
 much
 much
 much
@@ -201977,7 +201974,7 @@ much
 much
 much
 much
-mucles
+muscles
 muddied
 muddies
 muddled
@@ -202315,7 +202312,7 @@ muting
 mutual
 mutually
 mutually
-mving
+moving
 my
 my
 my
@@ -203505,7 +203502,7 @@ myself
 myself
 myself
 myself
-mysogyny
+misogyny
 mysterious
 mysterious
 mysterious
@@ -204137,7 +204134,7 @@ nasty
 nasty
 nasty
 nasty
-nather
+neither
 nation
 nation
 nation
@@ -206980,7 +206977,7 @@ newest
 newest
 newest
 newest
-newhere
+nowhere
 newly
 newly
 newly
@@ -207091,7 +207088,7 @@ news
 news
 newspaper
 newspaper
-nex
+next
 next
 next
 next
@@ -207656,7 +207653,7 @@ nights
 nights
 nihilism
 nice
-nim
+dim
 nine
 nine
 nine
@@ -207665,7 +207662,7 @@ ninety
 nips
 nips
 nit
-nitch
+niche
 nitpickiness
 nitpicking
 nitpicking
@@ -208733,7 +208730,7 @@ noon
 noon
 noon
 noose
-nopes
+nope
 nor
 nor
 nor
@@ -211946,7 +211943,7 @@ nothing
 nothing
 nothing
 nothing
-noti
+notice
 noticable
 noticable
 notice
@@ -213092,7 +213089,7 @@ nowhere
 nowt
 nozzle
 nozzle
-nto
+not
 nuances
 nuclear
 nuclear
@@ -213124,7 +213121,7 @@ nudity
 nudity
 nudity
 nudity
-nuggest
+nugget
 nugget
 nugget
 nugget
@@ -213493,8 +213490,8 @@ numbers
 numbers
 numbess
 numbing
-numebers
-numebr
+numbers
+number
 numeral
 numeral
 numeral
@@ -213504,9 +213501,6 @@ numeral
 numeric
 numerous
 numerous
-numrow
-numrow
-numrow
 nurse
 nursing
 nursing
@@ -213626,7 +213620,7 @@ obtain
 obtainable
 obtainable
 obtained
-obviosly
+obviously
 obvious
 obvious
 obvious
@@ -213720,7 +213714,7 @@ occasions
 occasions
 occassion
 occassion
-occassional
+occasional
 occupation
 occupied
 occupied
@@ -213733,7 +213727,7 @@ occur
 occur
 occur
 occur
-occurance
+occurrence
 occurs
 ocean
 ocean
@@ -222389,7 +222383,7 @@ olds
 oligarchy
 oligarchy
 olive
-ombining
+combining
 omitted
 omnipresent
 on
@@ -226305,7 +226299,7 @@ on
 on
 on
 on
-ona
+on
 onboarding
 once
 once
@@ -230227,7 +230221,6 @@ opinions
 opinions
 opinions
 opinions
-opped
 opponent
 opponent
 opponent
@@ -232742,7 +232735,7 @@ organ
 organic
 organic
 organic
-organisations
+organizations
 organised
 organised
 organised
@@ -232755,7 +232748,7 @@ organized
 organizing
 organs
 orgasm
-orginally
+originally
 orgy
 orientation
 orientation
@@ -232880,7 +232873,7 @@ originally
 originally
 originals
 originals
-originaly
+originally
 originating
 ornaments
 orthographic
@@ -233725,7 +233718,8 @@ other
 other
 other
 other
-otherplayer
+other
+player
 others
 others
 others
@@ -235203,8 +235197,8 @@ output
 output
 output
 output
-outpute
-outputes
+output
+outputs
 outputs
 outputs
 outputs
@@ -235987,7 +235981,7 @@ overboard
 overcrowded
 overdo
 overdone
-overdrawing
+overdrawn
 overdue
 overdue
 overdue
@@ -236393,7 +236387,6 @@ ox
 ox
 oxeye
 oxeye
-oxfords
 pace
 pace
 pace
@@ -236706,7 +236699,7 @@ packs
 packs
 packs
 packs
-packtes
+packets
 pad
 pad
 pad
@@ -236944,7 +236937,7 @@ paid
 paid
 paid
 paid
-paide
+paid
 pain
 pain
 pain
@@ -236981,7 +236974,7 @@ painful
 painful
 painfully
 painfully
-paing
+pain
 pains
 pains
 pains
@@ -237026,7 +237019,7 @@ pairs
 pairs
 pairs
 pairs
-paiting
+painting
 paled
 palette
 palettes
@@ -237206,7 +237199,7 @@ parents
 parents
 parents
 parents
-paricles
+particles
 parity
 parking
 parkour
@@ -237791,7 +237784,7 @@ part
 part
 part
 part
-partents
+parents
 partial
 partial
 partial
@@ -237911,7 +237904,7 @@ particles
 particles
 particles
 particles
-particls
+particles
 particular
 particular
 particular
@@ -239099,7 +239092,7 @@ payments
 payments
 payments
 payments
-paynig
+paying
 payout
 payout
 payouts
@@ -239123,7 +239116,7 @@ pays
 pays
 paywall
 paywall
-pdate
+date
 peace
 peace
 peace
@@ -241890,7 +241883,7 @@ persons
 persons
 persons
 persons
-perspecive
+perspective
 perspective
 perspective
 perspective
@@ -241912,7 +241905,7 @@ pesky
 pesky
 person
 person
-pessamistic
+pessimistic
 pestering
 pestilence
 pestilence
@@ -242577,8 +242570,8 @@ pink
 pink
 pink
 pink
-pinkier
-pinkies
+pinker
+pinky
 pinnacle
 pinned
 pinned
@@ -243080,8 +243073,8 @@ placing
 placing
 placing
 please
-plagarism
-plagarized
+plagiarism
+plagiarized
 plagiarism
 plague
 plague
@@ -245993,7 +245986,7 @@ plus
 plus
 plus
 pluses
-pluts
+puts
 pocket
 pocket
 pocket
@@ -246324,7 +246317,7 @@ poison
 poison
 poison
 poisoned
-poitn
+point
 poke
 poke
 poke
@@ -246483,7 +246476,7 @@ pollen
 pollen
 pollen
 pollen
-pollible
+possible
 pollinated
 pollinated
 pollinated
@@ -246706,8 +246699,8 @@ populations
 populist
 populist
 populous
-poral
-porals
+portal
+portals
 pore
 pores
 porn
@@ -247306,8 +247299,8 @@ possibly
 possibly
 possibly
 possibly
-possilbe
-possilibities
+possible
+possibilities
 post
 post
 post
@@ -247944,8 +247937,8 @@ preaches
 precedent
 precedent
 precedent
-preceeding
-precident
+preceding
+precedent
 precious
 precise
 precisely
@@ -247969,7 +247962,7 @@ prediction
 prediction
 prediction
 predictive
-preditory
+predatory
 predominantly
 preduct
 preduct
@@ -248538,7 +248531,7 @@ preview
 preview
 previewable
 previews
-previoulsy
+previously
 previous
 previous
 previous
@@ -248701,7 +248694,6 @@ prices
 prices
 prices
 prices
-pricetag
 pricey
 pricier
 pricing
@@ -249649,7 +249641,7 @@ proof
 proof
 proofing
 proofs
-proove
+prove
 prop
 prop
 propaganda
@@ -250100,7 +250092,7 @@ proxy
 prevent
 pseudo
 pseudo
-psuedo
+pseudo
 psychiatrist
 psychological
 psychologist
@@ -250333,7 +250325,7 @@ punishment
 punishment
 punishment
 punishment
-puntuation
+punctuation
 puppet
 puppet
 puppet
@@ -250869,7 +250861,7 @@ puts
 puts
 puts
 puts
-puttin
+putting
 putting
 putting
 putting
@@ -251071,7 +251063,7 @@ quest
 quest
 quest
 quest
-questio
+question
 question
 question
 question
@@ -251261,7 +251253,7 @@ questions
 questions
 questions
 questions
-questionv
+question
 quests
 quests
 quests
@@ -251491,10 +251483,10 @@ quite
 quite
 quite
 quite
-quiting
 quitting
 quitting
 quitting
+quitting
 quiz
 quiz
 quiz
@@ -251514,7 +251506,7 @@ quiz
 quiz
 quiz
 quiz
-quizes
+quizzes
 quota
 quote
 quote
@@ -253237,7 +253229,8 @@ real
 real
 real
 real
-realdual
+real
+dual
 realise
 realise
 realised
@@ -254278,7 +254271,6 @@ recent
 recent
 recent
 recent
-recentl
 recently
 recently
 recently
@@ -254327,7 +254319,8 @@ recently
 recently
 recently
 recently
-recenty
+recently
+recently
 recession
 recession
 recession
@@ -254765,7 +254758,7 @@ recorded
 recorded
 recorded
 recorder
-recorderd
+recorder
 recording
 recording
 recording
@@ -255096,7 +255089,7 @@ redundant
 redundant
 redundant
 redundant
-reduntant
+redundant
 reduplication
 reduplication
 reeds
@@ -255941,10 +255934,10 @@ relog
 relog
 relog
 relogging
-relpied
+replied
 reluctance
-relult
-relult
+result
+result
 rely
 rely
 rely
@@ -256000,7 +255993,7 @@ remain
 remain
 remained
 remained
-remaing
+remaining
 remaining
 remaining
 remaining
@@ -256079,9 +256072,9 @@ remaking
 remaking
 remaking
 remaking
-remame
-remaned
-remaping
+rename
+remained
+remapping
 remapped
 remapping
 remark
@@ -256287,7 +256280,7 @@ remembered
 remembered
 remembered
 remembering
-rememdy
+remedy
 rememeber
 rememeber
 rememeber
@@ -256295,8 +256288,8 @@ rememeber
 rememeber
 rememeber
 rememeber
-rememebr
-remianing
+remember
+remaining
 remind
 remind
 remind
@@ -256374,14 +256367,14 @@ reminds
 reminds
 reminisce
 reminisces
-remiove
+remove
 remix
 remix
-remmber
-remmeber
-remmeber
+remember
+remember
+remember
 remnant
-remnent
+remnant
 remote
 remotely
 remotely
@@ -257769,7 +257762,7 @@ reread
 rereading
 reroute
 rerun
-rescrible
+rescribble
 rescue
 rescuer
 research
@@ -257936,7 +257929,7 @@ resistant
 resistant
 resistant
 resisted
-resistnace
+resistance
 reskinning
 reskinning
 reskinning
@@ -258412,7 +258405,7 @@ restores
 restoring
 restoring
 restrained
-restrction
+restriction
 restrict
 restrict
 restricted
@@ -258757,7 +258750,7 @@ revenge
 revenue
 revenue
 revenue
-reversable
+reversible
 reversal
 reversal
 reversal
@@ -258808,7 +258801,7 @@ reverting
 reverting
 reverting
 reverting
-revesal
+reversal
 review
 review
 review
@@ -260948,7 +260941,7 @@ ruined
 ruined
 ruined
 ruined
-ruines
+ruins
 ruining
 ruining
 ruining
@@ -261138,7 +261131,7 @@ rulings
 rulings
 rumor
 rumor
-rumore
+rumor
 rumors
 rumors
 rumors
@@ -262032,7 +262025,7 @@ salary
 sale
 sale
 sale
-saleman
+salesman
 sales
 sales
 sales
@@ -264071,7 +264064,7 @@ scaling
 scaling
 scaling
 scaling
-scalling
+scaling
 scalp
 scalp
 scam
@@ -264161,7 +264154,7 @@ scene
 scene
 scene
 scene
-scenerio
+scenario
 scenes
 scenes
 scenes
@@ -264485,7 +264478,7 @@ scores
 scores
 scorn
 scorn
-scrambed
+scrambled
 scramble
 scramble
 scrambled
@@ -264505,7 +264498,7 @@ scratch
 scratch
 scratch
 scratch
-screach
+screech
 scream
 screamed
 screamed
@@ -267234,8 +267227,8 @@ seperation
 seperation
 seperation
 seperation
-seperations
-seperator
+separations
+separator
 sequence
 sequence
 sequence
@@ -267271,7 +267264,7 @@ sequences
 sequential
 sequential
 sequentially
-sequetial
+sequential
 sera
 sera
 series
@@ -270073,7 +270066,7 @@ shady
 shake
 shake
 shaken
-shakeup
+shake-up
 shaking
 shaking
 shall
@@ -270679,7 +270672,7 @@ sheep
 sheep
 sheep
 sheep
-sheeps
+sheep
 sheer
 sheet
 sheet
@@ -270692,7 +270685,7 @@ shelf
 shelf
 shelf
 shelf
-shelfs
+shelves
 shell
 shell
 shell
@@ -273840,12 +273833,12 @@ similar
 similar
 similar
 similar
-simlar
+similar
 simp
 simper
 simper
 simper
-simpify
+simplify
 simple
 simple
 simple
@@ -275735,7 +275728,7 @@ situation
 situations
 situations
 situations
-sitution
+situation
 six
 six
 six
@@ -283954,8 +283947,8 @@ spawns
 speach
 speach
 speach
-spead
-speading
+spread
+spreading
 speak
 speak
 speak
@@ -284094,7 +284087,7 @@ specifically
 specifically
 specifically
 specifically
-specificaly
+specifically
 specifics
 specifics
 specifics
@@ -284645,7 +284638,7 @@ sperm
 spewing
 sphere
 sphere
-spicata
+spectate
 spider
 spider
 spider
@@ -287258,7 +287251,7 @@ stole
 stole
 stolen
 stolen
-stolide
+stolid
 stomach
 stomach
 stomp
@@ -287451,7 +287444,7 @@ stop
 stop
 stop
 stop
-stoped
+stopped
 stop
 stopped
 stopped
@@ -288242,7 +288235,7 @@ stubborn
 stubborn
 stubborn
 stubborn
-stubborness
+stubbornness
 stubbornly
 stubbornly
 stubbornness
@@ -289102,7 +289095,7 @@ subbed
 subbed
 subbed
 subbing
-subborn
+stubborn
 subchunk
 subchunk
 subchunk
@@ -289147,7 +289140,7 @@ submissions
 submit
 submit
 submit
-submiting
+submitting
 submits
 submitted
 submitted
@@ -289208,7 +289201,7 @@ successful
 successful
 successful
 successful
-successfull
+successful
 successfully
 successfully
 successfully
@@ -289216,8 +289209,8 @@ successfully
 successfully
 successfully
 successfully
-sucessful
-sucessfull
+successful
+successful
 such
 such
 such
@@ -289396,7 +289389,8 @@ suffixes
 suffixes
 suffixes
 suffixes
-suffixless
+suffix
+less
 suffocating
 suffocating
 suffocating
@@ -289413,7 +289407,7 @@ sugar
 sugar
 sugarcane
 sugars
-suggesions
+suggestion
 suggest
 suggest
 suggest
@@ -289462,7 +289456,7 @@ suicide
 suicide
 suicide
 suicided
-suishing
+squishing
 suit
 suit
 suit
@@ -292688,7 +292682,7 @@ tally
 tally
 tally
 tallying
-taly
+tally
 tampering
 tan
 tangent
@@ -292998,8 +292992,8 @@ tease
 tease
 teased
 teasing
-teasure
-techically
+treasure
+technically
 technical
 technical
 technical
@@ -293725,7 +293719,7 @@ tenth
 tenth
 tenth
 tenure
-ter
+term
 terified
 term
 term
@@ -294491,9 +294485,9 @@ test
 test
 test
 testable
-teste
-teste
-teste
+tested
+tested
+tested
 tested
 tested
 tested
@@ -294577,7 +294571,7 @@ tester
 testers
 testes
 testes
-testest
+testes
 testified
 testify
 testifying
@@ -294754,7 +294748,6 @@ testing
 testing
 testing
 testing
-testings
 testosterone
 testosterone
 testosterone
@@ -294786,7 +294779,7 @@ tests
 tests
 tests
 tests
-testst
+tests
 text
 text
 text
@@ -354513,7 +354506,7 @@ throat
 through
 throne
 throne
-throug
+through
 through
 through
 through
@@ -354806,7 +354799,7 @@ thrown
 thrown
 thrown
 throws
-thrrough
+through
 thrusted
 this
 that
@@ -369401,32 +369394,15 @@ today
 today
 today's
 today's
-todays
+today's
 toddler
-todo
-todo
-todo
-todo
-todo
-todo
-todo
-todo
-todo
-todo
-todo
-todo
-todo
-todo
-todo
-todo
-todo
-todo
 toe
 toe
 toe
 toe
 toe
-tofeel
+to
+feel
 together
 together
 together
@@ -369603,7 +369579,7 @@ tolerances
 tolerate
 tolerated
 tolerated
-tollerating
+tolerating
 tomato
 tomato
 tomato
@@ -370625,7 +370601,7 @@ top
 topaz
 topaz
 topaz
-topg
+top
 topic
 topic
 topic
@@ -370648,7 +370624,7 @@ topic
 topic
 topic
 tops
-tor
+tore
 torch
 torches
 torn
@@ -371311,7 +371287,7 @@ traits
 traits
 traits
 trajectory
-tranfer
+transfer
 tranparent
 transaction
 transaction
@@ -396318,6 +396294,8 @@ whole
 whole
 whole
 wholesome
+whom
+whom
 whom
 whose
 whose
@@ -421607,7 +421585,7 @@ most
 most
 most
 most
-mosterioous
+mysterious
 mostly
 mostly
 mostly
@@ -423299,7 +423277,7 @@ onion
 onion
 onion
 onion
-onion's
+onions
 online
 online
 only
@@ -424569,8 +424547,8 @@ scale
 scale
 scandals
 scarecrow
-sceenshot
-sceenshots
+screenshot
+screenshots
 scene
 schooler
 schools
@@ -424988,7 +424966,7 @@ smarty
 smite
 smite
 smite
-smokey
+smoky
 snakes
 snapshot
 snapshot
@@ -425776,7 +425754,7 @@ sprite
 squall
 squall
 square
-squeeky
+squeaky
 squirrel
 stab
 stable
@@ -428411,7 +428389,7 @@ trash
 trash
 trashed
 transphobia
-trastier
+trashier
 travel
 travel
 travel
@@ -428647,7 +428625,6 @@ upper
 upper
 upper
 upsetting
-uranium
 us
 us
 us
