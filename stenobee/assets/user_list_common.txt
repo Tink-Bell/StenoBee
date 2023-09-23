@@ -353,9 +353,9 @@ huge
 books
 case
 removed
+won't
 base
 sense
-won't
 super
 went
 total
@@ -369,9 +369,10 @@ lore
 run
 fact
 later
-wont
 pretty
 type
+wont
+weird
 fire
 share
 steno
@@ -386,7 +387,6 @@ dictionary
 paid
 big
 couple
-weird
 main
 cool
 small
@@ -932,6 +932,7 @@ fit
 gay
 gone
 human
+known
 mana
 material
 multiple
@@ -950,7 +951,7 @@ drops
 fucked
 helped
 knew
-known
+language
 matters
 minimum
 must
@@ -970,7 +971,6 @@ feature
 form
 haven't
 impact
-language
 light
 mods
 orange
@@ -1450,6 +1450,7 @@ grind
 hair
 helpful
 index
+knows
 length
 morning
 personally
@@ -1529,7 +1530,6 @@ decide
 final
 finish
 hits
-knows
 legal
 lots
 manager
@@ -3591,6 +3591,7 @@ teleporting
 temptation
 tends
 therapist
+thief
 threads
 threats
 ticker
@@ -3968,7 +3969,6 @@ terrorism
 theft
 therefore
 thicker
-thief
 thier
 thirst
 tinker
@@ -4517,7 +4517,6 @@ wax
 weakness
 weirder
 wheel
-wierd
 wifi
 worrying
 wreckless
@@ -5682,7 +5681,6 @@ kindness
 kits
 lacks
 laggy
-lain
 landed
 laser
 lastly
@@ -6112,7 +6110,6 @@ teenager
 tenth
 terrifying
 teste
-theif
 theirs
 theoretical
 theramin
@@ -7844,6 +7841,7 @@ tes
 testes
 testimony
 thanking
+theif
 themes
 ther
 thicc
@@ -7985,6 +7983,7 @@ warrant
 wars
 washing
 wasteland
+we
 weakest
 weakpoint
 wean
@@ -7995,8 +7994,6 @@ weirdly
 weld
 werent
 whale
-whatt
-whe
 wheats
 wherever
 whipping
@@ -10391,13 +10388,9 @@ knives
 knockoff
 knocks
 knownt
-knoww
-knozw
 knuckles
 koifish
 kong
-konw
-kown
 krypton
 lab
 labeling
@@ -10409,7 +10402,6 @@ lagless
 lagmachine
 lagmachines
 lagsources
-lains
 lair
 lame
 lament
@@ -10417,7 +10409,6 @@ landlords
 landscape
 lanes
 lang
-languge
 lapwing
 larva
 lash
@@ -11222,6 +11213,7 @@ plunge
 plurals
 pluses
 pluts
+pneumonoultramicroscopicsilicovolcanoconiosis
 pockets
 podcast
 podcasts
@@ -12207,7 +12199,6 @@ strips
 strived
 stro
 strongholds
-strontium
 structural
 strung
 strut
@@ -12795,8 +12786,6 @@ whited
 who'd
 wholesome
 whom
-whould
-whpere
 widdled
 widest
 wielder

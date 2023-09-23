@@ -170922,11 +170922,11 @@ knows
 knows
 knows
 knows
-knoww
-knozw
+knows
+knows
 knuckles
-konw
-kown
+know
+known
 label
 label
 label
@@ -171348,10 +171348,6 @@ laid
 laid
 laid
 laid
-lain
-lain
-lain
-lains
 lair
 lame
 lament
@@ -171472,7 +171468,7 @@ languages
 languages
 languages
 languages
-languge
+language
 lantern
 lantern
 lapis
@@ -391737,10 +391733,10 @@ whats
 whats
 whats
 whatsoever
-whatt
-whatt
-whe
-whe
+what
+what
+we
+we
 wheat
 wheat
 wheat
@@ -391760,7 +391756,7 @@ wheel
 wheel
 wheelhouse
 wheels
-whpere
+where
 when
 when
 when
@@ -395377,7 +395373,7 @@ whitespace
 whitespace
 with
 whole
-wont
+won't
 who
 who
 who
@@ -396321,7 +396317,7 @@ whose
 whose
 whose
 whose
-whould
+would
 where
 why
 why
@@ -396960,11 +396956,11 @@ widths
 widths
 widths
 wielder
-wierd
-wierd
-wierd
-wierd
-wierd
+weird
+weird
+weird
+weird
+weird
 wife
 wife
 wife
@@ -426225,7 +426221,6 @@ strider
 strider
 strike
 string
-strontium
 studies
 studio
 studios
@@ -427585,7 +427580,7 @@ the
 the
 the
 the
-theif
+thief
 their
 their
 their
@@ -430808,3 +430803,4 @@ zombie
 disambiguation
 disambiguate
 disambiguator
+pneumonoultramicroscopicsilicovolcanoconiosis
