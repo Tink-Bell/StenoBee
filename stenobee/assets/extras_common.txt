@@ -1,7 +1,7 @@
 A quick brown fox jumps over the lazy dog.
 Monday
 Tuesday
-wednesday
+Wednesday
 Thursday
 Friday
 Saturday

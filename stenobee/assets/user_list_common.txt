@@ -3729,6 +3729,7 @@ dislike
 dismiss
 dive
 dodge
+doxing
 drugs
 dumbass
 effectiveness
@@ -4692,6 +4693,7 @@ docs
 documents
 doom
 dox
+doxed
 dreams
 drift
 drinking
@@ -5459,9 +5461,6 @@ dose
 doubled
 downplayed
 downplaying
-doxed
-doxing
-doxxing
 dragging
 draining
 driver
@@ -9305,12 +9304,9 @@ downs
 downscale
 downscaling
 downstairs
-downt
-downthe
+downstream
 downturns
-dowstream
 doxes
-doxxed
 drags
 dramas
 drastic
