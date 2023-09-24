@@ -82378,7 +82378,7 @@ drives
 drives
 drives
 drives
-drivethrough
+drive-through
 driving
 driving
 driving
@@ -82625,7 +82625,7 @@ drops
 drops
 drops
 drops
-dropys
+drops
 drove
 drove
 drown
@@ -82668,7 +82668,7 @@ dry
 dry
 dry
 dryness
-dtails
+details
 dual
 dual
 dub
@@ -83168,7 +83168,7 @@ dumbass
 dumbasses
 dumbasses
 dumbasses
-dumbe
+dumb
 dumber
 dumbest
 dumbest
@@ -83729,7 +83729,7 @@ during
 during
 during
 during
-durring
+during
 dusk
 dust
 dust
@@ -84322,7 +84322,7 @@ eager
 eager
 eager
 eagerly
-eaiser
+easier
 ear
 ear
 ear
@@ -84331,7 +84331,7 @@ ear
 ear
 ear
 ear
-earier
+earlier
 earlier
 earlier
 earlier
@@ -85020,7 +85020,7 @@ eco
 eco
 eco
 eco
-ecomony
+economy
 economic
 economic
 economic
@@ -86081,7 +86081,7 @@ either
 either
 either
 elaborate
-elagant
+elegant
 elder
 elderly
 elderly
@@ -86161,7 +86161,7 @@ electrolysis
 electrolysis
 electronic
 electrons
-elelment
+element
 element
 element
 element
@@ -86184,7 +86184,8 @@ elephant
 elevation
 elevations
 elevations
-elif
+else
+if
 eligible
 eligible
 eliminate
@@ -86412,7 +86413,7 @@ emails
 emails
 emails
 emails
-embarassment
+embarrassment
 embarrassing
 embarrassing
 embarrassing
@@ -88450,7 +88451,7 @@ encourages
 encouraging
 encouraging
 encouraging
-encouranging
+encouraging
 end
 end
 end
@@ -88740,7 +88741,7 @@ end
 end
 end
 end
-end's
+ends
 endangered
 endeavoured
 endeavoured
@@ -88772,7 +88773,7 @@ ended
 ended
 ended
 ended
-endede
+ended
 ending
 ending
 ending
@@ -88854,7 +88855,7 @@ enemy
 enemy
 enemy
 enemy
-eneragy
+energy
 energies
 energy
 energy
@@ -89295,7 +89296,7 @@ ensure
 ensured
 ensured
 ensured
-ensureing
+ensuring
 ensures
 ensures
 ensures
@@ -89384,7 +89385,7 @@ entertaining
 entertaining
 entertaining
 entertainment
-enthno
+ethnic
 enthusiasm
 enthusiast
 enthusiastic
@@ -89510,7 +89511,7 @@ entirely
 entirely
 entirely
 entirely
-entires
+entire
 entirety
 entirety
 entities
@@ -89577,7 +89578,7 @@ entity
 entity
 entity
 entity
-entra
+entrance
 entrance
 entries
 entries
@@ -89820,7 +89821,7 @@ equivalent
 equivalent
 equivalent
 equivalent
-equivolent
+equivalent
 er
 er
 er
@@ -89878,7 +89879,7 @@ erasing
 erasing
 erasing
 erasing
-eratic
+erratic
 erected
 erecting
 ergo
@@ -89893,7 +89894,7 @@ erode
 eroded
 eroded
 erratic
-errie
+eerie
 error
 error
 error
@@ -90014,7 +90015,7 @@ error
 error
 error
 error
-errorin
+error
 errors
 errors
 errors
@@ -90071,7 +90072,6 @@ escape
 escape
 escape
 escaped
-especailly
 especially
 especially
 especially
@@ -90160,7 +90160,8 @@ especially
 especially
 especially
 especially
-especialyy
+especially
+especially
 esque
 essay
 essay
@@ -90994,7 +90995,7 @@ even
 even
 even
 even
-eveni
+even
 evening
 evening
 evening
@@ -91056,8 +91057,9 @@ event
 event
 event
 event
-eventhose
-eventn
+even
+those
+event
 events
 events
 events
@@ -91337,7 +91339,7 @@ ever
 ever
 ever
 ever
-everone
+everyone
 every
 every
 every
@@ -92364,9 +92366,9 @@ exist
 exist
 exist
 exist
-existance
-existance
-existance
+existence
+existence
+existence
 existant
 existed
 existed
@@ -92819,7 +92821,7 @@ explain
 explain
 explain
 explain
-explaination
+explanation
 explained
 explained
 explained
@@ -92997,12 +92999,11 @@ explosives
 expoit
 expoit
 expoit
-expoits
+exploits
 exponent
 exponential
 exponential
 exponential
-exporb
 exporting
 expose
 exposed
@@ -93307,7 +93308,6 @@ face
 faced
 faced
 faced
-facemasks
 faces
 faces
 faces
@@ -96763,7 +96763,7 @@ filtering
 filters
 filth
 finally
-finad
+find
 final
 final
 final
@@ -99302,8 +99302,8 @@ flirt
 flirted
 flirted
 flirting
-flitering
-fllowed
+filtering
+followed
 float
 float
 float
@@ -99835,7 +99835,7 @@ fonts
 fonts
 fonts
 fonts
-fonud
+found
 food
 food
 food
@@ -99877,8 +99877,6 @@ food
 food
 food
 foods
-foodstamp
-foodstamps
 fool
 fool
 fool
@@ -105268,7 +105266,7 @@ frame
 frame
 frame
 frame
-framents
+fragments
 frames
 frames
 frames
@@ -105457,7 +105455,7 @@ freedom
 freedom
 freedom
 freedom
-freedomn
+freedom
 freedoms
 freedoms
 freedoms
@@ -105474,8 +105472,7 @@ freely
 freely
 freely
 freely
-freest
-freetime
+free
 freeway
 freeway
 freewill
@@ -108704,10 +108701,10 @@ funeral
 fungus
 fungus
 fungus
-funish
-funking
+furnish
+funky
 funnel
-funnest
+funniest
 funnier
 funniest
 funniest
@@ -108749,7 +108746,7 @@ funny
 funny
 funny
 funny
-funtions
+functions
 fur
 furious
 furnace
@@ -110048,7 +110045,7 @@ generic
 generic
 generic
 generosity
-genertes
+generates
 genes
 genetic
 genetic
@@ -113380,7 +113377,7 @@ glasses
 glasses
 glasses
 glasswire
-gliches
+glitches
 glide
 gliding
 glitch
@@ -114102,7 +114099,6 @@ goats
 goddamn
 gods
 gods
-goees
 goes
 goes
 goes
@@ -114279,6 +114275,7 @@ goes
 goes
 goes
 goes
+goes
 going
 going
 going
@@ -114837,13 +114834,12 @@ golden
 golden
 golden
 golden
-goldless
+godless
 golems
 golems
 golf
 golf
 golf
-golfcart
 gone
 gone
 gone
@@ -116015,7 +116011,7 @@ got
 got
 got
 got
-gots
+got
 gotta
 gotta
 gotta
@@ -116858,7 +116854,7 @@ grind
 grind
 grind
 grind
-grinded
+ground
 grinder
 grinding
 grinding
@@ -117363,9 +117359,9 @@ grumpy
 grumpy
 grumpy
 grumpy
-grying
-gtve
-guage
+crying
+give
+gauge
 guarantee
 guaranteed
 guard
@@ -117380,9 +117376,9 @@ guardian
 guards
 guards
 guards
-gues
-gues
-gues
+guess
+guess
+guess
 guess
 guess
 guess
@@ -117768,10 +117764,10 @@ ha
 ha
 ha
 ha
-habbit
-habbit
-habbit
-habbits
+habit
+habit
+habit
+habits
 habit
 habit
 habitable
@@ -118675,9 +118671,9 @@ had
 had
 had
 had
-hade
+had
 hadn't
-haft
+half
 hag
 hair
 hair
@@ -118926,8 +118922,9 @@ half
 half
 half
 half
-halfhis
-halfs
+half
+his
+halves
 halfway
 halfway
 halfway
@@ -119592,7 +119589,7 @@ happens
 happens
 happens
 happens
-happes
+happens
 happier
 happiest
 happiest
@@ -119902,8 +119899,6 @@ hardcore
 hardcore
 hardcore
 hardcore
-harddrive
-harddrive
 hardened
 harder
 harder
@@ -120078,7 +120073,7 @@ harming
 harms
 harnessed
 harnessing
-harrasment
+harassment
 harrass
 harrass
 harrass
@@ -127236,10 +127231,10 @@ hiding
 hiding
 hiding
 hiding
-hiegh
-hieght
-hieght
-hieght
+high
+height
+height
+height
 hierarchical
 hierarchical
 hierarchy
@@ -127581,7 +127576,6 @@ height
 high
 test
 highway
-hihi
 hijacked
 hike
 hikes
@@ -127593,7 +127587,7 @@ nihilist
 nihilist
 nihilists
 nihilistic
-nihilistism
+nihilism
 him
 him
 him
@@ -127824,7 +127818,7 @@ him
 him
 him
 him
-himsef
+himself
 himself
 himself
 himself
@@ -128166,7 +128160,7 @@ history
 history
 history
 history
-histroy
+history
 hit
 hit
 hit
@@ -128240,7 +128234,7 @@ hit
 hit
 hither
 hither
-hiting
+hitting
 hits
 hits
 hits
@@ -128580,7 +128574,6 @@ homeless
 homeless
 homeless
 homeless
-homelist
 homeowner
 homerow
 homerow
@@ -128605,7 +128598,7 @@ homework
 homework
 homework
 homicides
-hominems
+homonyms
 homing
 homologous
 homophobia
@@ -128924,7 +128917,7 @@ honey
 honey
 honor
 honorable
-honstly
+honestly
 hoof
 hook
 hookers
@@ -129185,7 +129178,7 @@ hopefully
 hopefully
 hopefully
 hopefully
-hopeing
+hoping
 hopeless
 hopes
 hopes
@@ -129491,7 +129484,6 @@ hotbar
 hotel
 hotel
 hotline
-hotspots
 hottest
 hold
 hour
@@ -137024,7 +137016,7 @@ immediately
 immediately
 immediately
 immediately
-immediatly
+immediately
 immense
 immense
 immense
@@ -137033,7 +137025,7 @@ immensely
 immensely
 immensely
 immensely
-immensly
+immensely
 immerse
 immersion
 immigrant
@@ -137134,7 +137126,7 @@ impeachment
 impeachment
 impeded
 impeded
-impendiment
+impediment
 imperative
 imperceptibly
 imperiled
@@ -137350,7 +137342,7 @@ impulse
 impulse
 impulsive
 impulsiveness
-im
+I'm
 still
 in
 in
@@ -142607,7 +142599,7 @@ inactive
 inactive
 inards
 inaugural
-inbalance
+imbalance
 inbox
 incapable
 incapable
@@ -142905,8 +142897,8 @@ increasingly
 increasingly
 increasingly
 increasingly
-increasingn
-increasinng
+increasing
+increasing
 incredibly
 increment
 increment
@@ -142933,12 +142925,12 @@ indentation
 indentation
 indented
 indented
-indentical
-indentify
+identical
+identify
 indenting
 indenting
-independant
-independantly
+independent
+independently
 independence
 independence
 independence
@@ -143038,8 +143030,8 @@ indicator
 indices
 indices
 indices
-indictate
-indictates
+indicate
+indicates
 indigenous
 indirect
 indirectly
@@ -143094,7 +143086,6 @@ inestimable
 inevitable
 inevitable
 inevitably
-infact
 infamously
 infancy
 infancy
@@ -143345,7 +143336,7 @@ innocent
 innocent
 innocent
 innocent
-innv
+innovate
 inpiration
 input
 input
@@ -143395,7 +143386,7 @@ insanely
 insect
 insect
 insecticide
-inseperable
+inseparable
 insert
 inserting
 inside
@@ -143818,7 +143809,7 @@ instead
 instead
 instead
 instead
-instict
+instinct
 instinct
 instinct
 instinct
@@ -143826,7 +143817,7 @@ instituted
 institution
 institution
 institutional
-instread
+instead
 instrument
 instrument
 instrument
@@ -143836,7 +143827,7 @@ insult
 insult
 insulting
 insults
-insurace
+insurance
 insurance
 insurance
 insurance
@@ -143860,7 +143851,7 @@ insurrections
 intact
 intake
 intakes
-intead
+instead
 integer
 integer
 integer
@@ -143872,7 +143863,7 @@ integrated
 integrating
 integrity
 integrity
-intelectual
+intellectual
 intelligence
 intelligence
 intelligence
@@ -143938,7 +143929,7 @@ intentionally
 intentionally
 inter
 inter
-interacial
+interracial
 interact
 interact
 interact
@@ -143983,14 +143974,14 @@ interacts
 interacts
 interal
 interal
-interally
+internally
 intercept
 intercepting
 interchange
 interchange
 intercom
 interconnected
-interdependant
+interdependent
 interest
 interest
 interest
@@ -145027,9 +145018,9 @@ investments
 investments
 investors
 investors
-invetory
-invicible
-invince
+inventory
+invincible
+convince
 invincibility
 invincible
 invincible
@@ -145044,7 +145035,7 @@ invis
 invis
 invis
 invis
-invisibile
+invisible
 invisibility
 invisibility
 invisible
@@ -145198,7 +145189,7 @@ irony
 irratically
 irrationally
 irrespective
-irreversably
+irreversibly
 is
 is
 is
@@ -153350,11 +153341,11 @@ is
 is
 is
 is
-iscompatible
+incompatible
 ish
 ish
 ish
-isn
+isn't
 isn't
 isn't
 isn't
@@ -153479,7 +153470,7 @@ isolation
 isolation
 isolation
 isolationists
-isometic
+isometric
 isometric
 isometric
 isometric
@@ -161162,7 +161153,7 @@ it
 it
 it
 it
-it'l
+it'll
 it's
 it's
 it's
@@ -163435,8 +163426,8 @@ itemsa
 itemsa
 iterations
 iterations
-iti
-itmes
+it
+items
 its
 its
 its
@@ -164954,7 +164945,6 @@ jerk
 jerk
 jerk
 jerked
-jerkoff
 jerks
 jet
 jet
@@ -164962,7 +164952,7 @@ jet
 jetpack
 jist
 jives
-jjust
+just
 job
 job
 job
@@ -165356,12 +165346,12 @@ junk
 jurisdiction
 jury
 jury
-jus
-jus
-jus
-jusi
-juslt
-juslt
+just
+just
+just
+just
+just
+just
 just
 just
 just
@@ -168117,7 +168107,7 @@ keeping
 keeping
 keeping
 keeping
-keepinv
+keeping
 keeps
 keeps
 keeps
@@ -168235,7 +168225,7 @@ kernal
 kernal
 kernal
 kernal
-kernals
+kernels
 kerning
 kerning
 kerning
@@ -168549,7 +168539,6 @@ keygens
 keymap
 keymapping
 keymapping
-keypairs
 keys
 keys
 keys
@@ -168686,13 +168675,10 @@ keys
 keys
 keys
 keys
-keyshaped
 keystroke
 keystroke
 keystroke
 keystrokes
-keyswitch
-keyswitches
 keyword
 keyword
 keyword
@@ -176371,7 +176357,7 @@ lift
 lift
 lifting
 lifting
-lighest
+lightest
 light
 light
 light
@@ -176448,7 +176434,7 @@ lightsaber
 like
 like
 likely
-lik
+like
 like
 like
 like
@@ -180783,7 +180769,7 @@ liked
 liked
 liked
 liked
-likel
+likely
 likelihood
 likely
 likely
@@ -181086,7 +181072,7 @@ likely
 likely
 likely
 likely
-likelyhood
+likelihood
 liken
 likes
 likes
@@ -181095,8 +181081,9 @@ likes
 likes
 likes
 likes
-liket
-likethis
+like
+like
+this
 likey
 likey
 likey
@@ -181161,7 +181148,7 @@ lime
 lime
 lime
 lime
-limils
+limits
 limit
 limit
 limit
@@ -181432,7 +181419,7 @@ limits
 limits
 limits
 limits
-limted
+limited
 line
 line
 line
@@ -182328,7 +182315,7 @@ lists
 lists
 lists
 lists
-listst
+lists
 lit
 lit
 lit
@@ -182453,14 +182440,14 @@ literally
 literally
 literally
 literary
-litle
+little
 litterally
 litterally
 litterally
 litterally
 litterally
 litterally
-litti
+little
 little
 little
 little
@@ -182935,17 +182922,16 @@ living
 living
 lizard
 lizard
-lke
+like
 llama
 llama
 llama
 llama
 llamas
-lleft
-lless
-lloking
-lmon
-lo
+left
+less
+looking
+lemon
 load
 load
 load
@@ -183386,8 +183372,8 @@ logged
 logged
 logged
 logged
-loggging
-loggin
+logging
+logging
 logging
 logging
 logging
@@ -183753,7 +183739,7 @@ logs
 logs
 logs
 logs
-loking
+looking
 lol
 lol
 lol
@@ -185469,7 +185455,7 @@ lose
 lose
 lose
 lose
-loseing
+losing
 loser
 loses
 loses
@@ -186530,7 +186516,7 @@ loyalty
 loyalty
 loyalty
 loyalty
-lserver
+server
 lucid
 luck
 luck
@@ -186611,7 +186597,6 @@ lure
 lurk
 lurking
 lurks
-lurtis
 lush
 luxury
 lying
@@ -186634,7 +186619,7 @@ ma'am
 ma'am
 ma'am
 ma'am
-ma'amed
+ma'am
 macabre
 machete
 machine
@@ -187310,7 +187295,7 @@ made
 made
 made
 made
-mades
+made
 magazine
 magazine
 magazines
@@ -187426,7 +187411,7 @@ magenta
 magenta
 magenta
 magenta
-mages
+images
 magic
 magic
 magic
@@ -187631,7 +187616,7 @@ main
 main
 main
 main
-mained
+main
 mainland
 mainland
 mainline
@@ -187705,7 +187690,7 @@ maintain
 maintain
 maintain
 maintainable
-maintainablity
+maintainability
 maintained
 maintenance
 maintenance
@@ -191380,7 +191365,7 @@ master
 master
 master
 master
-masterpeice
+masterpiece
 masters
 masters
 masters
@@ -191487,7 +191472,7 @@ matchups
 matchups
 matchups
 matchups
-mate
+matte
 material
 material
 materials
@@ -191690,7 +191675,7 @@ mattered
 mattered
 matterial
 matterial
-matterials
+materials
 matters
 matters
 matters
@@ -194566,7 +194551,7 @@ mechanisms
 mechanisms
 mechanisms
 mechanisms
-mechinisms
+mechanisms
 medals
 medals
 medals
@@ -194985,7 +194970,7 @@ merciless
 mercy
 mercy
 mercy
-mere
+merely
 merge
 merge
 merge
@@ -195017,7 +195002,6 @@ merging
 merging
 merging
 merging
-merican
 merit
 mesh
 mesh
@@ -195214,7 +195198,7 @@ messaged
 messaged
 messaged
 messaged
-messageing
+messaging
 messages
 messages
 messages
@@ -196675,7 +196659,7 @@ mining
 mining
 mining
 minion
-minmize
+minimize
 minor
 minor
 minor
@@ -198005,8 +197989,8 @@ money
 money
 money
 money
-moneye
-moneys
+money
+money
 mongering
 mongering
 monies
@@ -198341,7 +198325,7 @@ months
 months
 months
 months
-montion
+motion
 monument
 mood
 mood
@@ -198384,7 +198368,7 @@ moon
 moon
 moon
 moon
-moost
+most
 mops
 mops
 mops
@@ -204257,7 +204241,7 @@ navigate
 navigate
 navigate
 navigation
-ne
+near
 near
 near
 near
@@ -213086,7 +213070,7 @@ nowhere
 nowhere
 nowhere
 nowhere
-nowt
+naught
 nozzle
 nozzle
 not
@@ -213399,7 +213383,7 @@ number
 number
 number
 number
-numberal
+numeral
 numbered
 numbered
 numbering
@@ -213513,8 +213497,7 @@ nuts
 nuts
 nuts
 nuts
-nword
-nxme
+word
 oak
 oak
 oak
@@ -213557,7 +213540,7 @@ obligation
 obligation
 oblivious
 oblivious
-obly
+able
 obscene
 obscene
 obscene
@@ -213752,7 +213735,7 @@ oceans
 ocelot
 ocotillo
 octahedron
-octohedron
+octahedron
 octopus
 odd
 odd
@@ -221933,7 +221916,7 @@ okay
 okay
 okay
 okra
-ol
+old
 old
 old
 old
@@ -235392,10 +235375,10 @@ outskirts
 outsmarts
 outsourced
 outstretched
-outw
+out
 outward
 outwitting
-ouwt
+out
 ovarian
 oven
 over
@@ -236021,7 +236004,7 @@ overhauls
 overhead
 overhead
 overhead
-overide
+override
 overkill
 overlap
 overlap
@@ -236134,7 +236117,7 @@ owed
 owed
 owed
 owed
-oweing
+owing
 owl
 owl
 owl
@@ -237135,7 +237118,6 @@ papers
 papers
 papers
 papers
-papertape
 paperwork
 par
 par
@@ -237144,12 +237126,12 @@ par
 par
 paragraph
 paragraph
-paralel
+parallel
 parallel
 paralleled
 paraphrased
 parasite
-parens
+parentheses
 parent
 parent
 parent
@@ -238155,7 +238137,7 @@ party
 party
 party
 party
-pased
+passed
 pass
 pass
 pass
@@ -238948,7 +238930,6 @@ payday
 payday
 payday
 paygrade
-payin
 paying
 paying
 paying
@@ -239045,7 +239026,8 @@ paying
 paying
 paying
 paying
-paymen
+paying
+payment
 payment
 payment
 payment
@@ -255099,8 +255081,8 @@ reeds
 reeds
 reeds
 reef
-reelection
-reequire
+reflection
+require
 refer
 refer
 refer
@@ -287769,7 +287751,7 @@ stove
 stragglers
 stragglers
 stragglers
-straighest
+straightest
 straight
 straight
 straight
@@ -289972,7 +289954,7 @@ supremacist
 supremacists
 supremacists
 supremacy
-suprise
+surprise
 sure
 sure
 sure
@@ -290790,7 +290772,7 @@ suspending
 suspicion
 suspicious
 suspicious
-suspposed
+supposed
 sustain
 sustain
 sustainable
@@ -291186,7 +291168,7 @@ symmetry
 symmetry
 symmetry
 sync
-syncronised
+synchronized
 synergy
 synonymous
 syntax
@@ -293041,7 +293023,7 @@ technically
 technically
 technically
 technically
-technicaly
+technically
 technician
 technique
 techniques
@@ -293699,7 +293681,7 @@ tend
 tend
 tend
 tend
-tendancy
+tendency
 tendency
 tendency
 tendency
@@ -293720,7 +293702,7 @@ tenth
 tenth
 tenure
 term
-terified
+terrified
 term
 term
 term
@@ -342421,7 +342403,7 @@ themself
 themself
 themself
 themself
-themselfs
+themselves
 themselves
 themselves
 themselves
@@ -355010,7 +354992,7 @@ tick
 tick
 tick
 tick
-tickable
+tickle
 ticked
 ticked
 ticker
@@ -369635,7 +369617,7 @@ tomorrow
 tomorrow
 tomorrow
 tomorrow
-tomorrows
+tomorrow's
 ton
 ton
 ton
@@ -370834,7 +370816,7 @@ total
 total
 total
 totaled
-totalling
+totaling
 totally
 totally
 totals
@@ -371288,7 +371270,7 @@ traits
 traits
 trajectory
 transfer
-tranparent
+transparent
 transaction
 transaction
 transaction
@@ -371323,7 +371305,7 @@ transfer
 transfer
 transfer
 transfer
-transfered
+transferred
 transferring
 transferring
 transfers
@@ -371532,7 +371514,7 @@ trashing
 trashing
 trashing
 trashy
-trasparency
+transparency
 trasparent
 trasparent
 trauma
@@ -372584,7 +372566,7 @@ true
 truest
 truest
 truest
-trully
+truly
 truly
 truly
 truly
@@ -374263,7 +374245,7 @@ tyranny
 tyranny
 tyranny
 tyrants
-tyrany
+tyranny
 aging
 ugly
 ugly
@@ -374444,7 +374426,7 @@ uncertain
 uncertainty
 uncertainty
 uncertainty
-unchangable
+unchangeable
 uncheck
 uncheck
 uncle
@@ -377294,7 +377276,7 @@ usable
 usable
 usable
 usable
-usablity
+usability
 usage
 usage
 usage
@@ -379818,7 +379800,7 @@ usually
 usurp
 usurpations
 ususally
-usused
+unused
 utilitarian
 utilities
 utilities
@@ -380425,7 +380407,7 @@ vein
 vein
 vein
 veins
-veiw
+view
 velocity
 velocity
 velocity
@@ -380447,7 +380429,7 @@ verbally
 verbosity
 verge
 verge
-verical
+vertical
 verifiable
 verified
 verified
@@ -381981,7 +381963,7 @@ volumes
 volunteer
 volunteer
 voluntering
-vom
+vomit
 vomit
 vomit
 vortex
@@ -387770,7 +387752,7 @@ watching
 watching
 watching
 watching
-wated
+wasted
 water
 water
 water
@@ -403962,10 +403944,10 @@ word
 word
 worded
 worded
-wordering
+wandering
 wording
 wording
-wordly
+worldly
 words
 words
 words
@@ -405906,7 +405888,7 @@ works
 works
 works
 works
-worky
+wordy
 world
 world
 world
@@ -406495,7 +406477,7 @@ worse
 worse
 worse
 worsening
-worshiping
+worshipping
 worst
 worst
 worst
@@ -408930,7 +408912,7 @@ written
 written
 written
 written
-writter
+writer
 writing
 working
 working
@@ -409571,7 +409553,7 @@ yellow
 yellow
 yellow
 yen
-yesteday
+yesterday
 yesterday
 yesterday
 yesterday
@@ -416424,7 +416406,7 @@ empower
 emu
 enabling
 enabling
-encabulator
+incalculable
 enchant
 enchant
 enchant
@@ -416553,7 +416535,7 @@ entity
 entries
 entry
 episode
-equiping
+equipping
 erases
 erasing
 ergo
@@ -416615,7 +416597,7 @@ ethical
 ethical
 euphoria
 euphoria
-eurphoric
+euphoric
 evaluating
 even
 even
@@ -416666,7 +416648,7 @@ everything
 everything
 evil
 evil
-evo
+ever
 evolutions
 exactly
 exactly
@@ -417056,7 +417038,7 @@ fixing
 flag
 flag
 flag
-flakery
+flakiness
 flame
 flame
 flamingo
@@ -417254,7 +417236,7 @@ fox
 fox
 fox
 fox
-foxs
+foxes
 frame
 frame
 frames
@@ -417269,7 +417251,7 @@ free
 freecam
 freedom
 frenchy
-freq
+frequent
 fresh
 friendly
 friends
@@ -417515,8 +417497,8 @@ glam
 glam
 glastic
 glastic
-gliched
-glichy
+glitched
+glitchy
 glitches
 global
 go
@@ -417638,7 +417620,7 @@ grabbed
 grabbed
 grace
 grace
-gradieant
+gradient
 gradient
 grail
 grail
@@ -417736,7 +417718,7 @@ grumpy
 grumpy
 grumpy
 grumpy
-gryphon
+griffin
 guaranteed
 guard
 guard
@@ -417792,7 +417774,6 @@ hard
 hard
 hard
 hard
-hardrive
 harvest
 harvests
 has
@@ -417850,7 +417831,8 @@ having
 hawk
 hawk
 hawk
-hayday
+hay
+day
 he
 he
 he
@@ -418347,7 +418329,7 @@ honestly
 honestly
 honestly
 hood
-hooray
+hurray
 hope
 hope
 hope
@@ -419348,7 +419330,7 @@ internet
 internet
 internet
 internet
-internets
+internet
 into
 intramuscular
 intro
@@ -419806,7 +419788,7 @@ jade
 jades
 jagged
 jails
-jaring
+jarring
 java
 java
 java
@@ -419848,8 +419830,8 @@ java
 java
 java
 javelin
-javelin's
-jee
+javelins
+gee
 jeez
 jeez
 jeez
@@ -420004,7 +419986,8 @@ keyboards
 keycap
 keygen
 keygen
-keylayout
+key
+layout
 keys
 keywords
 keywords
@@ -420022,7 +420005,7 @@ kids
 kids
 kids
 kids
-kidz
+kids
 kill
 kill
 kill
@@ -420081,15 +420064,6 @@ lagger
 lagger
 lagger
 laggier
-lagmachine
-lagmachines
-lagsources
-lagspikes
-lagspikes
-lagspikes
-lagspikes
-lagspikes
-lagspikes
 lake
 lake
 lake
@@ -420229,7 +420203,7 @@ level
 levelled
 levelled
 levels
-ley
+lay
 lib
 lib
 lib
@@ -420268,7 +420242,8 @@ life
 light
 light
 light
-lightyear
+light
+year
 like
 like
 like
@@ -420688,8 +420663,8 @@ lore
 lore
 lore
 lore
-losely
-losen
+loosely
+loosen
 lost
 lost
 lot
@@ -420743,7 +420718,7 @@ luls
 lulz
 lulz
 lunch
-lychen
+lichen
 machine
 macho
 macho
@@ -420872,7 +420847,7 @@ master
 master
 master
 master
-mater
+matter
 material
 material
 material
@@ -421595,8 +421570,8 @@ mostly
 mostly
 mostly
 motivation
-moto
-motorcylces
+motor
+motorcycles
 mount
 mount
 mountaintop
@@ -421634,7 +421609,7 @@ much
 mull
 multi
 multi
-multicolorness
+multicoloredness
 multicraft
 multicraft
 multicraft
@@ -422221,7 +422196,6 @@ num
 number
 number
 number
-numberpads
 numpad
 numpad
 nutshell
@@ -428144,7 +428118,7 @@ thrifty
 through
 thumb
 thumb
-thursty
+thirsty
 thus
 thus
 thus
@@ -428550,7 +428524,7 @@ union
 union
 union
 union
-unistalled
+uninstalled
 united
 united
 united
@@ -428591,8 +428565,6 @@ until
 until
 until
 until
-ununbiium
-ununquadium
 unwhitelisted
 unwhitelisted
 up
@@ -428759,7 +428731,7 @@ voting
 vowel
 vowels
 vulnerable
-wack
+whack
 wade
 wade
 wade
@@ -429460,7 +429432,7 @@ word
 word
 word
 word
-wordize
+word
 words
 words
 work
