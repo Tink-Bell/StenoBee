@@ -1953,6 +1953,7 @@ nutshell
 overhaul
 pays
 pinky
+planning
 pretending
 rates
 reasonable
@@ -2027,7 +2028,6 @@ ordered
 parent
 phonetic
 pictures
-planning
 pool
 puts
 remade
@@ -7865,7 +7865,6 @@ unmoderated
 unnatural
 unto
 untouched
-unwhitelisted
 unzip
 upping
 upside
@@ -7919,7 +7918,6 @@ washing
 wasteland
 we
 weakest
-weakpoint
 wean
 web
 webpage
@@ -7940,7 +7938,6 @@ woah
 worded
 wording
 workable
-worknig
 workouts
 world's
 worldwide
@@ -10758,7 +10755,6 @@ planetary
 planets
 plank
 planks
-plannig
 planting
 playback
 playbook

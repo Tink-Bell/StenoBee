@@ -70,10 +70,6 @@ def next_suffix(suffix):
     elif suffix == 'KQ':
         return 'QV'
     elif suffix == 'QV':
-        return 'FQ'
-    elif suffix == 'FQ':
-        return 'HQ'
-    elif suffix == 'HQ':
         return 'QJX'
     elif suffix == 'QJX':
         return 'ZQJ'
@@ -82,9 +78,13 @@ def next_suffix(suffix):
     elif suffix == 'KQJ':
         return 'QJV'
     elif suffix == 'QJV':
-        return 'FQJ'
-    elif suffix == 'FQJ':
-        return 'HQJ'
+        return 'ZQJX'
+    elif suffix == 'ZQJX':
+        return 'ZQJV'
+    elif suffix == 'ZQJV':
+        return 'KQJX'
+    elif suffix == 'KQJX':
+        return 'KQJV'
     else:
         return None
 

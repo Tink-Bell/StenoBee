@@ -243239,7 +243239,7 @@ planned
 planned
 planned
 planned
-plannig
+planning
 planning
 planning
 planning
@@ -388076,8 +388076,6 @@ weakness
 weaknesses
 weaknesses
 weaknesses
-weakpoint
-weakpoint
 wealth
 wealth
 wealth
@@ -405649,8 +405647,8 @@ workload
 workload
 workloads
 workman
-worknig
-worknig
+working
+working
 works
 works
 works
@@ -428554,8 +428552,6 @@ until
 until
 until
 until
-unwhitelisted
-unwhitelisted
 up
 up
 up
