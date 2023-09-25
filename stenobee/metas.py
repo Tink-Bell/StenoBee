@@ -10,5 +10,6 @@ def pluralize(ctx, _):
   action = ctx.copy_last_action()
   action.prev_replace = last_word
   action.text = p.plural(last_word)
+  action.prev_attach = True
 
   return action
