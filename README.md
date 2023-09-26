@@ -40,13 +40,15 @@ Some key points about Stenobee
 >
 
 >
+![good and bad](https://github.com/Tink-Bell/StenoBee/assets/143440063/2e1ea628-9a60-4a30-acf6-fc26a42a3905)
+>
 
 >
-What is StenoBee Good for
+Some things that StenoBee i Good for
 >
-1) It's great at being opitimized for how you speak, using the python scripts to build the dictionary.
+1) Can be easily customized using raw text or a ranked list.
 >
-2) It's great at encoding long phrases into single strokes
+2) It's great at encoding long phrases into single strokes(see example image above)
 >
 
 >
@@ -56,7 +58,7 @@ What is StenoBee is bad at.
 >
 1) Captioning, and court reporting work, since the orderless non phonetic nature of it actively makes transcription related work harder.
 >
-2) Small words are often made longer with suffixes if they are less common, as they are more likely to need disambiguation.
+2) Small words are often made longer with suffixes if they are less common(see example image above)
 >
 
 >
