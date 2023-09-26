@@ -40,7 +40,7 @@ Some key points about Stenobee
 >
 
 >
-![good and bad](https://github.com/Tink-Bell/StenoBee/assets/143440063/2e1ea628-9a60-4a30-acf6-fc26a42a3905)
+![good and bad](https://github.com/Tink-Bell/StenoBee/assets/143440063/131f7453-2643-48d2-98e2-f517f8973f29)
 >
 
 >
