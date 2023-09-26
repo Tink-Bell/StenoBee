@@ -44,7 +44,7 @@ Some key points about Stenobee
 >
 
 >
-Some things that StenoBee i Good for
+Some things that StenoBee is Good for
 >
 1) Can be easily customized using raw text or a ranked list.
 >
