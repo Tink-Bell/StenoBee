@@ -17,7 +17,7 @@ With lots of help from, Jen and paulfioravanti :)
 
 >
 ![ezgif-2-9a548ef0d5](https://github.com/Tink-Bell/StenoBee/assets/143440063/1bc790b8-b83d-4e1a-a4f7-52ff6f215e7b)
-> 
+>
 
 >
 
@@ -25,7 +25,7 @@ With lots of help from, Jen and paulfioravanti :)
 StenoBee, is a spelling based, orderless Steno theory for Plover.
 >
 
-> 
+>
 ![Plover_trans](https://github.com/Tink-Bell/StenoBee/assets/143440063/a63cce07-d8e1-4d6b-bf80-89ff05a1cd79)
 >
 
@@ -78,16 +78,10 @@ What is StenoBee is bad at.
 >
 
 >
-![Q series](https://github.com/Tink-Bell/StenoBee/assets/143440063/209643cd-539a-4938-a5d1-9030a6e3d0c3)
->
-
-> 
 ![Screenshot from 2023-09-22 10-50-00](https://github.com/Tink-Bell/StenoBee/assets/143440063/87f15a32-9bff-4a1b-8e67-99054ec21b00)
 >
 
 >
 ![examples](https://github.com/Tink-Bell/StenoBee/assets/143440063/a28a3695-86d0-4463-a5e6-3cf9dd6050b4)
 >
-
-
 
