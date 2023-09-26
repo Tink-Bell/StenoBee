@@ -2,7 +2,7 @@
 >
 
 >
-![StenoBee](https://github.com/Tink-Bell/StenoBee/assets/143440063/d6d22592-c82b-4ab7-bbef-98ead1f0aaa6)
+![StenoBee_larger](https://github.com/Tink-Bell/StenoBee/assets/143440063/07e204ee-de66-458d-acba-d5b204fb2394)
 >
 
 >
