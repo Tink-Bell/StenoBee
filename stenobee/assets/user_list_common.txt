@@ -5151,6 +5151,7 @@ significantly
 silent
 silverfish
 sites
+skirt
 slaves
 slider
 slurs
@@ -7695,7 +7696,6 @@ skew
 skewed
 skimming
 skinned
-skirt
 skunk
 slack
 slash
