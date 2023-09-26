@@ -36,7 +36,7 @@ Some key points about Stenobee
 >
 2) By Using the custom Dictionary creation tools, the dictionary can be based solely on your own personal lexicon.
 >
-3) The default dictionary is made from 445k words (13k unique words), of sample text from myself over 3-4 years of my discord messages.
+3) The default dictionary is made using a raw text file of 445k words (13k unique words), from myself over 3-4 years of my discord messages.
 >
 
 >
