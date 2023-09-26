@@ -69,6 +69,9 @@ What is StenoBee is bad at.
 ![Number Mapping](https://github.com/Tink-Bell/StenoBee/assets/143440063/5d05e90d-5b49-402d-a0f1-a75bd1e15633)
 >
 
+>
+![symb](https://github.com/Tink-Bell/StenoBee/assets/143440063/0d6782ad-ca47-4e3f-9bf3-9ffa05324232)
+>
 
 >
 ![STENOBEE_example](https://github.com/Tink-Bell/StenoBee/assets/143440063/d35d6ba6-cf48-4928-ad1b-6ac3a1719c6b)
@@ -85,5 +88,6 @@ What is StenoBee is bad at.
 >
 ![examples](https://github.com/Tink-Bell/StenoBee/assets/143440063/a28a3695-86d0-4463-a5e6-3cf9dd6050b4)
 >
+
 
 
