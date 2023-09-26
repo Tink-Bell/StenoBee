@@ -10,7 +10,7 @@ With lots of help from, Jen and paulfioravanti :)
 >
 
 >
-![StenoBee_larger](https://github.com/Tink-Bell/StenoBee/assets/143440063/07e204ee-de66-458d-acba-d5b204fb2394)
+![StenoBee_larger](https://github.com/Tink-Bell/StenoBee/assets/143440063/d2bb970e-0163-400d-a901-0e479134b88e)
 >
 
 >
