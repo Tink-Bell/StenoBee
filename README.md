@@ -2,10 +2,6 @@
 >
 
 >
-![StenoBee_larger](https://github.com/Tink-Bell/StenoBee/assets/143440063/07e204ee-de66-458d-acba-d5b204fb2394)
->
-
->
 Plover plugin for Spelling Based Stenography
 >
 Created by Tink & Emily & Kaoffie
@@ -13,6 +9,8 @@ Created by Tink & Emily & Kaoffie
 With lots of help from, Jen and paulfioravanti :)
 >
 
+>
+![StenoBee_larger](https://github.com/Tink-Bell/StenoBee/assets/143440063/07e204ee-de66-458d-acba-d5b204fb2394)
 >
 
 >
