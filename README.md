@@ -30,9 +30,11 @@ StenoBee, is a spelling based, orderless Steno theory for Plover.
 >
 Some key points about Stenobee
 >
-1) Originally made to avoid having issues with dialect differences in vowel sounds
+1) Made to issues with dialect/phonetic differences pronunciation.
 >
-2) The default dictionary is made using a raw text file of 445k words (13k unique words), from myself over 3-4 years of my discord messages.
+2) Comes with a default dictionary of 13k unique words from my own posts.
+>
+3) You can also make your dictionary from your own word list/raw text (using the tools at the bottom of the page)
 >
 
 >
@@ -88,9 +90,13 @@ Then make a common words dictionary from it.
 >
 
 >
+Tools to filter and clean raw text, and turn it into 3 lists for easier handling.
+>
 https://www.dropbox.com/scl/fi/0p09wxwk1vsha8tgkgi1q/Raw-text-to-List-Tools.zip?rlkey=dem74k15jicj63ir33hn0l51g&dl=0
 >
 
+>
+Tools to take your tex, and convert it into the dictionary file, replacing the "common" dictionary file.
 >
 https://www.dropbox.com/scl/fi/dfnrg4mn40s8mrj70d89y/List-to-Common-Json-Tools.zip?rlkey=zdx6ze8z8pg63ea26yqt9m7fg&dl=0
 >
