@@ -3960,6 +3960,7 @@ rage
 raid
 rain
 rainbow
+rapt
 reasonably
 recommended
 recovers
