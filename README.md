@@ -30,7 +30,7 @@ StenoBee, is a spelling based, orderless Steno theory for Plover.
 >
 Some key points about Stenobee
 >
-1) Made to issues with dialect/phonetic differences pronunciation.
+1) Originally started, to address issues arising from local dialect differences.
 >
 2) Comes with a default dictionary of 13k unique words from my own posts.
 >
