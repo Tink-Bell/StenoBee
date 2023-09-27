@@ -38,10 +38,6 @@ Some key points about Stenobee
 >
 
 >
-![good and bad](https://github.com/Tink-Bell/StenoBee/assets/143440063/131f7453-2643-48d2-98e2-f517f8973f29)
->
-
->
 Some things that StenoBee is Good for
 >
 1) Can be easily customized using raw text or a ranked list.
