@@ -32,7 +32,7 @@ Some key points about Stenobee
 >
 1) Originally made to avoid having issues with dialect differences in vowel sounds
 >
-2) By Using the custom Dictionary creation tools, the dictionary can be based solely on your own personal lexicon.
+2) Using custom Dictionary creation tools (provided at the very bottom), you can make the dictionary based solely on your own lexicon.
 >
 3) The default dictionary is made using a raw text file of 445k words (13k unique words), from myself over 3-4 years of my discord messages.
 >
