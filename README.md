@@ -87,3 +87,21 @@ What is StenoBee is bad at.
 ![Comparison](https://github.com/Tink-Bell/StenoBee/assets/143440063/ad3bdf0f-a322-47df-b9cf-7e5ad4d334ea)
 >
 
+>
+IF you are here, and you are still interested.
+>
+You can also make the dictionary entirely based on what you want.
+>
+Using these tools, you can take either raw text, or a ranked list.
+>
+Then make a common words dictionary from it.
+>
+
+>
+https://www.dropbox.com/scl/fi/0p09wxwk1vsha8tgkgi1q/Raw-text-to-List-Tools.zip?rlkey=dem74k15jicj63ir33hn0l51g&dl=0
+>
+
+>
+https://www.dropbox.com/scl/fi/dfnrg4mn40s8mrj70d89y/List-to-Common-Json-Tools.zip?rlkey=zdx6ze8z8pg63ea26yqt9m7fg&dl=0
+>
+
