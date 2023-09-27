@@ -32,7 +32,7 @@ Some key points about Stenobee
 >
 1) Originally started, to address issues arising from local dialect differences.
 >
-2) Comes with a default dictionary of 13k unique words from my own posts.
+2) Comes with a default dictionary of 13k unique words from my own posts, plus around 8k phrases taken from ngram data.
 >
 3) You can also make your dictionary from your own word list/raw text (using the tools at the bottom of the page)
 >
