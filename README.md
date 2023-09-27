@@ -32,19 +32,7 @@ Some key points about Stenobee
 >
 1) Originally made to avoid having issues with dialect differences in vowel sounds
 >
-2) Using custom Dictionary creation tools (provided at the very bottom), you can make the dictionary based solely on your own lexicon.
->
-3) The default dictionary is made using a raw text file of 445k words (13k unique words), from myself over 3-4 years of my discord messages.
->
-
->
-Some things that StenoBee is Good for
->
-1) Can be easily customized using raw text or a ranked list.
->
-2) It's great at encoding long phrases into single strokes(see example image above)
->
-
+2) The default dictionary is made using a raw text file of 445k words (13k unique words), from myself over 3-4 years of my discord messages.
 >
 
 >
@@ -52,7 +40,17 @@ What is StenoBee is bad at.
 >
 1) Captioning, and court reporting work, since the orderless non phonetic nature of it actively makes transcription related work harder.
 >
-2) Small words are often made longer with suffixes if they are less common(see example image above)
+2) Ambiguity with some shorter words, some memorization may be needed.
+>
+
+>
+Some things that StenoBee is Good for
+>
+1) Can be easily customized using tools provided at the very bottom.
+>
+2) It's great at encoding long words and phrases into single strokes.
+>
+
 >
 
 >
