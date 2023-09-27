@@ -37,7 +37,7 @@ def transform_text(input_file, output_file):
             line = line.strip()
 
             # Convert to uppercase
-            encoded = line.upper().replace(' ', '/')
+            encoded = line.upper().replace(' ', '/$')
 
             # if line doesn't have a space, then first letter needs a / to break it off
             if not '/' in encoded:
