@@ -72,7 +72,7 @@ What is StenoBee is bad at.
 >
 
 >
-![examples](https://github.com/Tink-Bell/StenoBee/assets/143440063/a28a3695-86d0-4463-a5e6-3cf9dd6050b4)
+![STENOBEE_example](https://github.com/Tink-Bell/StenoBee/assets/143440063/d35d6ba6-cf48-4928-ad1b-6ac3a1719c6b)
 >
 
 >
@@ -102,5 +102,6 @@ https://www.dropbox.com/scl/fi/dfnrg4mn40s8mrj70d89y/List-to-Common-Json-Tools.z
 >
 
 >
-![STENOBEE_example](https://github.com/Tink-Bell/StenoBee/assets/143440063/d35d6ba6-cf48-4928-ad1b-6ac3a1719c6b)
+![examples](https://github.com/Tink-Bell/StenoBee/assets/143440063/a28a3695-86d0-4463-a5e6-3cf9dd6050b4)
 >
+
