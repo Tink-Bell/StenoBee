@@ -5396,7 +5396,6 @@ bureaucracy
 burger
 burns
 burrito
-burry
 butter
 buys
 buzz
@@ -6487,6 +6486,7 @@ burning
 burnout
 burnt
 bursting
+bury
 burying
 butane
 butterfly
@@ -8518,6 +8518,7 @@ bunkers
 bunnies
 buried
 burqa
+burry
 burstiest
 bursts
 buses
@@ -10936,6 +10937,7 @@ produces
 producing
 productive
 productivity
+profanity
 professions
 profiles
 progressively
