@@ -9394,6 +9394,7 @@ exporting
 expose
 expression
 expressions
+expressive
 extensively
 exterminator
 extinct
@@ -9566,6 +9567,7 @@ freed
 freeloading
 frenchy
 frequencies
+fried
 friendship
 friendships
 fries
