@@ -18,6 +18,7 @@ Bai
 Ben
 Big
 Bob
+The Lord of the Rings
 CAD
 CAT
 CBS
@@ -218,6 +219,7 @@ Reg
 Ren
 Rev
 Rex
+Ria
 Rin
 Rio
 Rob
@@ -975,6 +977,7 @@ Thor
 Tiki
 Time
 Tina
+Tink
 Tino
 Tito
 Tivo
@@ -1083,6 +1086,7 @@ Zola
 Zoom
 Zora
 Zulu
+Biuaw
 Aaron
 Abbey
 Abbie
@@ -3104,6 +3108,7 @@ Lyrica
 Mac OS
 Mackey
 Madame
+Madden
 Maddox
 Madoff
 Madras
@@ -7399,6 +7404,7 @@ Ivory Coast
 Jabberwocky
 Jody Foster
 John Denver
+John Madden
 Jon Stewart
 Jules Verne
 Kansas City
@@ -7531,6 +7537,11 @@ Springfield
 Springsteen
 Stairmaster
 Stanley Cup
+States of America
+United States
+The United States of America
+United States of America
+The United States
 State Court
 StenoKnight
 Stenogotchi
@@ -8273,4 +8284,6 @@ Rudolph the Red Nosed Reindeer
 Four Horsemen of the Apocalypse
 Hitchhiker's Guide to the Galaxy
 Federal Communications Commission
+Lake Chargoggagoggmanchauggauggagoggchaubunagungamaugg 
 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
+Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu

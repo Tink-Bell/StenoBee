@@ -8879,6 +8879,7 @@ cottage
 counselling
 counterfeit
 counterintuitive
+counterrevolutionaries
 country's
 countryside
 county
@@ -8997,6 +8998,7 @@ defuse
 defying
 degeneracy
 degrade
+deinstitutionalization
 delegates
 deleter
 delighted
@@ -9271,6 +9273,7 @@ electing
 electors
 electrical
 electrically
+electroencephalographically
 electrolosys
 electronic
 electrons
@@ -9874,6 +9877,7 @@ hydra
 hydrate
 hydration
 hydrocarbons
+hydrochlorofluorocarbon
 hypervigilance
 hypotheticals
 idealized
@@ -9898,6 +9902,8 @@ immigrant
 immigrants
 immobile
 immorality
+immunoelectrophoresis
+immunoelectrophoretically
 immutable
 impairment
 impairments
@@ -9936,6 +9942,7 @@ incidence
 incidental
 incomes
 incompatible
+incomprehensibilities
 inconvenience
 inconvenient
 incorporate
@@ -10151,6 +10158,7 @@ lanes
 lang
 lapwing
 larva
+laryngotracheobronchitis
 lash
 latch
 laughs
@@ -10335,6 +10343,7 @@ messenger
 messiness
 metabolic
 methane
+methylenedioxymethamphetamine
 metrics
 metrosexual
 micro
@@ -10613,6 +10622,7 @@ orgy
 originating
 ornaments
 orthographic
+otorhinolaryngological
 outbreak
 outcast
 outfit
@@ -10963,11 +10973,14 @@ prototyping
 protray
 proudly
 province
+pseudohermaphroditism
+pseudopseudohypoparathyroidism
 psych
 psychiatrist
 psycho
 psychological
 psychologist
+psychoneuroimmunology
 publication
 publish
 puffs
@@ -11017,6 +11030,7 @@ rad
 radar
 radiating
 radiators
+radioimmunoelectrophoresis
 raft
 rafts
 raids
@@ -11690,6 +11704,7 @@ sunbathing
 sunlight
 sunny
 superb
+supercalifragilisticexpialidocious
 superflat
 superhealing
 superiors
