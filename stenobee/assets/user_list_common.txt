@@ -10745,7 +10745,6 @@ penaltly
 penta
 pentagrams
 pentgrams
-peoplet
 pep
 percentages
 perch
@@ -10941,6 +10940,8 @@ probationary
 procedural
 proceed
 proceeded
+proclamation
+proclamations
 prodigy
 produced
 producer
