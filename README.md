@@ -60,6 +60,10 @@ Some things that StenoBee is Good for
 >
 
 >
+![keysmash2](https://github.com/Tink-Bell/StenoBee/assets/143440063/eb56d84e-c747-40c2-aed2-4ea564df62f9)
+>
+
+>
 ![Number Mapping](https://github.com/Tink-Bell/StenoBee/assets/143440063/5d05e90d-5b49-402d-a0f1-a75bd1e15633)
 >
 
