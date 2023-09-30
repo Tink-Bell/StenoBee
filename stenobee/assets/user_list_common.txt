@@ -107,9 +107,9 @@ back
 test
 first
 why
+their
 many
 last
-their
 any
 which
 does
@@ -4053,7 +4053,6 @@ terrorism
 theft
 therefore
 thicker
-thier
 thirst
 thirsty
 tinker
