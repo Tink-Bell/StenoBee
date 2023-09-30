@@ -1,7 +1,8 @@
 LONGEST_KEY = 1
 
 
-MAPPING = str.maketrans("KCDHTPBNRLMV", ".1234567890.", "ZFSQJG$XOI")
+MAPPING = str.maketrans("KZCFDSHQTPBJNGR$LXMV", ".,1,2,3,456,7,8,9,0.", "OI")
+# str.maketrans(".,1,2,3,456,7,8,9,0.", "KZCFDSHQTPBJNGR$LXMV","-OAEI")
 
 
 NUMBER_KEY = ";"
