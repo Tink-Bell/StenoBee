@@ -55,6 +55,7 @@ DEFAULT_DICTIONARIES = (
     'StenoBee-elements.json',
     'StenoBee-molecules.json',
     'StenoBee-Pokemon.json',
+    'StenoBee-Emoji.json',
     'StenoBee-EndCap.json',
 )
 
