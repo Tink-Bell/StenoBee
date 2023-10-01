@@ -11,6 +11,9 @@ BACKWARDS = "E"
 
 NON_DIGITS = (NUMBER_KEY, FORWARDS, BACKWARDS)
 
+def count_digits(input_string):
+    digit_count = sum(char.isdigit() for char in input_string)
+    return digit_count
 
 def lookup(stn):
     if len(stn) > 1:
@@ -31,7 +34,7 @@ def lookup(stn):
                 
             raise KeyError
         
-        if any(MAPPING.get(ord(key), "") is None for key in stroke) or (len(digits) == 0):
+        if any(MAPPING.get(ord(key), "") is None for key in stroke):
             raise KeyError
         
         # We know that the first key is ; and the last key is AE
@@ -47,8 +50,10 @@ def lookup(stn):
     
         if bkd:
             digits = digits[::-1]
-
-        return "{{&" + "".join(digits) + "}}"
+        if count_digits(digits) == 0:
+            raise KeyError
+        else:
+            return "{{&" + "".join(digits) + "}}"
     
     raise KeyError
 
