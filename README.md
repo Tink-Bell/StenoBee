@@ -68,7 +68,7 @@ Some things that StenoBee is Good for
 >
 
 >
-![numbers2](https://github.com/Tink-Bell/StenoBee/assets/143440063/314746b0-76ca-4ce8-bc18-ca9d0b4c17c7)
+![numbers2](https://github.com/Tink-Bell/StenoBee/assets/143440063/6918a749-16a6-45eb-96a4-18971f53a038)
 >
 
 >
