@@ -31,10 +31,10 @@ def lookup(stn):
                 
             raise KeyError
         
-        if any(MAPPING.get(ord(key), "") is None for key in stroke):
+        if any(MAPPING.get(ord(key), "") is None for key in stroke) or (len(digits) == 0):
             raise KeyError
         
-        # We know that the first key is ; and the last key is EI
+        # We know that the first key is ; and the last key is AE
         # because we checked, so now that we don't need them we
         # can just remove them
         stroke = stroke[1:-1]
