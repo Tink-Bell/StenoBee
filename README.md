@@ -68,7 +68,7 @@ Some things that StenoBee is Good for
 >
 
 >
-![Number Mapping](https://github.com/Tink-Bell/StenoBee/assets/143440063/5d05e90d-5b49-402d-a0f1-a75bd1e15633)
+![numbers](https://github.com/Tink-Bell/StenoBee/assets/143440063/c3848494-a7f9-42e7-ac09-4137b0b00efb)
 >
 
 >
@@ -112,5 +112,6 @@ https://www.dropbox.com/scl/fi/dfnrg4mn40s8mrj70d89y/List-to-Common-Json-Tools.z
 >
 ![examples](https://github.com/Tink-Bell/StenoBee/assets/143440063/a28a3695-86d0-4463-a5e6-3cf9dd6050b4)
 >
+
 
 
