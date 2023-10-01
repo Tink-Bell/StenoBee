@@ -431932,8 +431932,6 @@ zombie
 zombie
 zombie
 zombie
-hokey
-fried
 proclamation
 proclamations
 expressive
@@ -431956,3 +431954,6 @@ methylenedioxymethamphetamine
 pseudopseudohypoparathyroidism
 supercalifragilisticexpialidocious
 pneumonoultramicroscopicsilicovolcanoconiosis
+blaster
+hokey
+fried

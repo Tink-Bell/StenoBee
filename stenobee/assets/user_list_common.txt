@@ -8392,6 +8392,7 @@ blanked
 blanket
 blanks
 blare
+blaster
 blasts
 bleach
 bleeds
