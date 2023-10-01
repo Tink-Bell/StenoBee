@@ -1,8 +1,7 @@
 LONGEST_KEY = 1
 
 
-MAPPING = str.maketrans("KZCFDSHQTPBJNGR$LXMV", ".,1,2,3,456,7,8,9,0.", "OI")
-# str.maketrans(".,1,2,3,456,7,8,9,0.", "KZCFDSHQTPBJNGR$LXMV","-OAEI")
+MAPPING = str.maketrans("KCDHTPBNRLMV", ".1234567890.", "ZFSQJG$XOI")
 
 
 NUMBER_KEY = ";"
@@ -11,9 +10,6 @@ BACKWARDS = "E"
 
 NON_DIGITS = (NUMBER_KEY, FORWARDS, BACKWARDS)
 
-def count_digits(input_string):
-    digit_count = sum(char.isdigit() for char in input_string)
-    return digit_count
 
 def lookup(stn):
     if len(stn) > 1:
@@ -37,7 +33,7 @@ def lookup(stn):
         if any(MAPPING.get(ord(key), "") is None for key in stroke):
             raise KeyError
         
-        # We know that the first key is ; and the last key is AE
+        # We know that the first key is ; and the last key is EI
         # because we checked, so now that we don't need them we
         # can just remove them
         stroke = stroke[1:-1]
@@ -50,10 +46,8 @@ def lookup(stn):
     
         if bkd:
             digits = digits[::-1]
-        if count_digits(digits) == 0:
-            raise KeyError
-        else:
-            return "{{&" + "".join(digits) + "}}"
+
+        return "{{&" + "".join(digits) + "}}"
     
     raise KeyError
 
