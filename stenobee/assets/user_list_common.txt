@@ -6924,6 +6924,7 @@ gamma
 gangs
 garbage
 gasoline
+gauge
 gears
 gene
 genetic
@@ -9621,7 +9622,6 @@ gaslight
 gates
 gateway
 gathered
-gauge
 gayness
 gays
 gaze
@@ -12237,6 +12237,7 @@ yeh
 yelling
 yen
 yin
+yoga
 yore
 youtube
 yoyos

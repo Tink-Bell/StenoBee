@@ -117416,6 +117416,7 @@ grumpy
 crying
 give
 gauge
+gauge
 guarantee
 guaranteed
 guard
@@ -431958,3 +431959,4 @@ blaster
 hokey
 fried
 automotive
+yoga
