@@ -1,9 +1,11 @@
+from unidecode import unidecode
 import sys
 import os
 
 # Define the letter order and vowel mapping
-letter_order = "KZCFDSHQTPBJNGRLXMV-OAEI"
+letter_order = "XKPMSHLTJQCNRDGFVBZ-OAEI"
 vowel_mapping = {
+'W': 'OA',	'U': 'OI',	'Y': 'EI',
 'w': 'OA',	'u': 'OI',	'y': 'EI',
 }
 
@@ -20,7 +22,7 @@ def replace_characters(word):
 # Function to encode a word
 def encode_word(word, encoded_words):
     original_word = word
-    word = replace_characters(word)  # Replace characters before encoding
+    word = replace_characters(unidecode(word))  # Replace characters before encoding
     encoded_word = ""
     found_vowel_group = False
 
@@ -41,7 +43,7 @@ def encode_word(word, encoded_words):
     # Check if the encoded word already exists in the dictionary
     if encoded_word in encoded_words:
         # If the encoded word already exists, generate a unique suffix
-        suffix = 'QJ'  # Start with the first suffix
+        suffix = 'JQ'  # Start with the first suffix
         while (suffix is not None) and ((f"{encoded_word}/{suffix}" in encoded_words) or (combine_suffix(f"{encoded_word}/{suffix}") in encoded_suffix_words)):
             suffix = next_suffix(suffix)
         if suffix is None:
@@ -59,32 +61,34 @@ def encode_word(word, encoded_words):
 
     return [encoded_word]
 
+
+
 # Function to generate the next suffix in the sequence
 def next_suffix(suffix):
-    if suffix == 'QJ':
-        return 'QX'
-    elif suffix == 'QX':
-        return 'ZQ'
-    elif suffix == 'ZQ':
+    if suffix == 'JQ':
+        return 'XQ'
+    elif suffix == 'XQ':
+        return 'QZ'
+    elif suffix == 'QZ':
         return 'KQ'
     elif suffix == 'KQ':
         return 'QV'
     elif suffix == 'QV':
-        return 'QJX'
-    elif suffix == 'QJX':
-        return 'ZQJ'
-    elif suffix == 'ZQJ':
-        return 'KQJ'
-    elif suffix == 'KQJ':
-        return 'QJV'
-    elif suffix == 'QJV':
-        return 'ZQJX'
-    elif suffix == 'ZQJX':
-        return 'ZQJV'
-    elif suffix == 'ZQJV':
-        return 'KQJX'
-    elif suffix == 'KQJX':
-        return 'KQJV'
+        return 'XJQ'
+    elif suffix == 'XJQ':
+        return 'JQZ'
+    elif suffix == 'JQZ':
+        return 'KJQ'
+    elif suffix == 'KJQ':
+        return 'JQV'
+    elif suffix == 'JQV':
+        return 'XJQZ'
+    elif suffix == 'XJQZ':
+        return 'JQVZ'
+    elif suffix == 'JQVZ':
+        return 'XKJQ'
+    elif suffix == 'XKJQ':
+        return 'KJQV'
     else:
         return None
 

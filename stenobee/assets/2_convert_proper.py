@@ -1,10 +1,12 @@
+from unidecode import unidecode
 import sys
 import os
 
 # Define the letter order and vowel mapping
-letter_order = "KZCFDSHQTPBJNGR$LXMV-OAEI"
+letter_order = "^XKPMSHLTJQCNRDGFVBZ-OAEI"
 vowel_mapping = {
 'W': 'OA',	'U': 'OI',	'Y': 'EI',
+'w': 'OA',	'u': 'OI',	'y': 'EI',
 }
 
 # Function to encode a word
@@ -37,11 +39,11 @@ def transform_text(input_file, output_file):
             line = line.strip()
 
             # Convert to uppercase
-            encoded = line.upper().replace(' ', '/$')
+            encoded = unidecode(line.upper().replace(' ', '/^'))
 
             # if line doesn't have a space, then first letter needs a / to break it off
             if not '/' in encoded:
-                encoded = encoded[0] + '/$' + encoded[1:]
+                encoded = encoded[0] + '/^' + encoded[1:]
 
             # for letter duplicate reasons, the WUY needs to be handled here
             encoded = encoded.replace('W', '<oa').replace('U', '<oi').replace('Y', '<ei')
@@ -60,16 +62,16 @@ def transform_text(input_file, output_file):
                     new_part += current_letter
                     if current_letter in seen_letters:
                         if j >= 2 and part[j-2] == "<" and (part[j] == "a" or part[j] == "i"):
-                            new_part = new_part[:-2] + '/$' + new_part[-2:] + current_letter
+                            new_part = new_part[:-2] + '/^' + new_part[-2:] + current_letter
                         else:
-                            new_part = new_part + '/$' + current_letter
+                            new_part = new_part + '/^' + current_letter
                         seen_letters.clear()
                     else:
                         seen_letters.add(current_letter)
                     j += 1
                 new_part = new_part.replace('<', '')
                 encoded_parts[i] = new_part.upper()
-            encoded = '/$'.join(encoded_parts)
+            encoded = '/^'.join(encoded_parts)
 
 
 
@@ -79,7 +81,7 @@ def transform_text(input_file, output_file):
             encoded_parts = encoded.split('/')
             for i, part in enumerate(encoded_parts):
                 if i > 0:
-                    encoded_parts[i] = encode_word("$" + part)
+                    encoded_parts[i] = encode_word("^" + part)
                 encoded_parts[i] = encode_word(part)
 
             # Join the modified parts back together

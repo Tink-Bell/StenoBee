@@ -1,11 +1,11 @@
 {
-";FSG$": "{:pluralize}",
-";SQJG": "{^\n^}",
-";ZFSQ": "{PLOVER:TOGGLE}",
-";SG": "{#backspace}",
-";QJ": "{#shift(return)}",
-";": "=undo",
-";TN": "{^ ^}",
-";HR": "{-|}",
-"$": "{^}"
+"^S-*": "{:pluralize}",
+"SLCR-*": "{^\n^}",
+"XPSL-*": "{PLOVER:TOGGLE}",
+"SR-*": "{#backspace}",
+"LC-*": "{#shift(return)}",
+"-*": "=undo",
+"TN-*": "{^ ^}",
+"HD-*": "{-|}",
+"^": "{^}"
 }

@@ -857,6 +857,7 @@ coords
 enchantable
 music
 nearly
+night
 progress
 report
 reset
@@ -878,7 +879,6 @@ join
 listed
 messages
 mine
-night
 such
 together
 windows
@@ -10139,6 +10139,7 @@ kitty
 kneecapped
 kneecaps
 knife
+knight
 knives
 knockoff
 knocks
