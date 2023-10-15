@@ -50,9 +50,9 @@ DICTIONARIES_ROOT = 'asset:stenobee:assets'
 DEFAULT_DICTIONARIES = (
     'StenoBee-Core.json',
     'StenoBee-Common.json',
-    'StenoBee-Numbers.py',
-    'StenoBee-Ergo_Numbers.json',
     'StenoBee-Proper-Nouns.json',
+    'StenoBee-Ergo_Numbers.json',
+    'StenoBee-Numbers.py',
     'StenoBee-EndCap.json',
     'StenoBee-Pokemon.json',
     'StenoBee-Emoji.json',
