@@ -57,8 +57,8 @@ NUMERIC = ".1234567890"
 
 
 def in_order(prev, curr, desc=False):
-    prev.replace("0", ":")
-    curr.replace("0", ":")
+    prev = prev.replace("0", ":")
+    curr = curr.replace("0", ":")
     if desc:
         return prev > curr
     else:
