@@ -109,5 +109,9 @@ https://www.dropbox.com/scl/fi/dfnrg4mn40s8mrj70d89y/List-to-Common-Json-Tools.z
 ![11](https://github.com/Tink-Bell/StenoBee/assets/143440063/8200202a-0e7e-47e2-9850-ff3b7a72ccd9)
 >
 
+An alternative Ergo centric number layout.
 
+>
+![12](https://github.com/Tink-Bell/StenoBee/assets/143440063/e2553fb5-bd2d-4dbf-9096-fe96dc671290)
+>
 
