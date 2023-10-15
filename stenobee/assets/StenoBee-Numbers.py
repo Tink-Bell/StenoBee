@@ -1,22 +1,26 @@
 LONGEST_KEY = 1
 
 
-MAPPING = str.maketrans("KCDHTPBNRLMV", ".1234567890.", "ZFSQJG$XOI")
+MAPPING = str.maketrans("KMHTJQNDFB", "1234567890")
 
-
-NUMBER_KEY = ";"
+NON_NUMBER_KEY = dict("^XPSLCRGV")
+DECIMAL_KEY = "Z"
 FORWARDS = "A"
 BACKWARDS = "E"
 
-NON_DIGITS = (NUMBER_KEY, FORWARDS, BACKWARDS)
 def lookup(stn):
     if len(stn) > 1:
         raise KeyError
     
     stroke = stn[0].replace("-", "")
-    if stroke[0] == NUMBER_KEY:
+
+    if any(key in stroke for key in NON_NUMBER_KEY):
+        raise KeyError
+
+    if "A*" in stroke or "*E" in stroke:
         fwd = FORWARDS in stroke
         bkd = BACKWARDS in stroke
+        dot = DECIMAL_KEY in stroke
         
         if fwd == bkd:
             if fwd and bkd:
@@ -33,7 +37,7 @@ def lookup(stn):
         # We know that the first key is ; and the last key is EI
         # because we checked, so now that we don't need them we
         # can just remove them
-        stroke = stroke[1:-1]
+        stroke = "".join(key for key in stroke if ord(key) in MAPPING)
         
         if not stroke:
             raise KeyError
@@ -43,14 +47,13 @@ def lookup(stn):
     
         if bkd:
             digits = digits[::-1]
-        return "{{&" + "".join(digits) + "}}"
+        return "{&" + "".join(digits) + (dot * ".") + "}"
 
     raise KeyError
 
 
-REV_MAPPING = str.maketrans("1234567890", "CDHTPBNRLM")
+REV_MAPPING = str.maketrans("1234567890", "KMHTJQNDFB")
 NUMERIC = ".1234567890"
-DOUBLE_DECIMAL = ";V-AE"
 
 
 def in_order(prev, curr, desc=False):
@@ -60,49 +63,40 @@ def in_order(prev, curr, desc=False):
         return prev > curr
     else:
         return prev < curr
+
+
 # This only returns one solution based on a greedy algorithm
 def reverse_lookup(text):
     buffer = ""
     result = []
     descending = False
-    pre_decimal = False
-    post_decimal = False
+    append_decimal = False
     
     def consume_buffer(dup=False):
-        nonlocal buffer, descending, pre_decimal, post_decimal
+        nonlocal buffer, descending, append_decimal
         keys = buffer.translate(REV_MAPPING)
         if descending:
-            pre_decimal, post_decimal = post_decimal, pre_decimal
+            # pre_decimal, post_decimal = post_decimal, pre_decimal
             keys = keys[::-1]
-            suffix = "-E"
+            suffix = "-*E"
         elif dup:
-            suffix = "-AE"
+            suffix = "-A*E"
         else:
-            suffix = "-A"
+            suffix = "-A*"
 
-        if pre_decimal:
-            keys = "K" + keys
-        if post_decimal:
-            keys += "V"
+        if append_decimal:
+            keys = "Z" + keys
 
-
-        result.append(";" + keys + suffix)
-        buffer, descending, pre_decimal, post_decimal = ("", False, False, False)
+        result.append(keys + suffix)
+        buffer, descending, append_decimal = ("", False, False, False)
 
     for c in text:
         if c not in NUMERIC:
             return []
         
         if c == ".":
-            if buffer:
-                post_decimal = True
-                consume_buffer()
-            else:
-                if pre_decimal:
-                    result.append(DOUBLE_DECIMAL)
-                    descending, pre_decimal, post_decimal = (False, False, False)
-                else:
-                    pre_decimal = True
+            append_decimal = True
+            consume_buffer()
         
         elif c.isdigit():
             if len(buffer) > 1:
@@ -124,6 +118,7 @@ def reverse_lookup(text):
             else:
                 buffer = c
     
-    if buffer or pre_decimal:
+    if buffer:
         consume_buffer()
+
     return [tuple(result)]
