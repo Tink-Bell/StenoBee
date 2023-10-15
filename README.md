@@ -10,11 +10,11 @@ With lots of help from, Jen and paulfioravanti :)
 >
 
 >
-![StenoBee_larger](https://github.com/Tink-Bell/StenoBee/assets/143440063/d2bb970e-0163-400d-a901-0e479134b88e)
+![1](https://github.com/Tink-Bell/StenoBee/assets/143440063/04132e29-53ec-4950-b64a-c5784b110eec)
 >
 
 >
-![ezgif-2-9a548ef0d5](https://github.com/Tink-Bell/StenoBee/assets/143440063/1bc790b8-b83d-4e1a-a4f7-52ff6f215e7b)
+![2](https://github.com/Tink-Bell/StenoBee/assets/143440063/485e8ca5-9fb3-435d-825b-2d08e38e0c37)
 >
 
 >
@@ -24,7 +24,7 @@ StenoBee, is a spelling based, orderless Steno theory for Plover.
 >
 
 >
-![Plover_Stenobee_Blasphemy](https://github.com/Tink-Bell/StenoBee/assets/143440063/5214ac35-4862-4f7c-810f-bba0b8b9509c)
+![3](https://github.com/Tink-Bell/StenoBee/assets/143440063/6f0250a2-5ceb-4b59-9d09-fd344bb76dd8)
 >
 
 >
@@ -56,35 +56,31 @@ Some things that StenoBee is Good for
 >
 
 >
-![270073477-64458a5f-b230-46f6-a254-20d46189f56a](https://github.com/Tink-Bell/StenoBee/assets/143440063/89b6fcf2-dec9-43f9-b3a8-ccfcbee3e158)
+![4](https://github.com/Tink-Bell/StenoBee/assets/143440063/946df1d1-93e6-4175-ad61-739ae2486825)
 >
 
 >
-![keysmash2](https://github.com/Tink-Bell/StenoBee/assets/143440063/cbc8fa21-8bcb-45d6-958b-77be6f653842)
+![5](https://github.com/Tink-Bell/StenoBee/assets/143440063/883b4db6-3b60-4d50-af44-0c446d6291e9)
 >
 
 >
-![keyorder](https://github.com/Tink-Bell/StenoBee/assets/143440063/52825072-e18d-44e8-be61-fb631bf550c2)
+![6](https://github.com/Tink-Bell/StenoBee/assets/143440063/92ede2cc-5ae2-4501-b30e-198e6d97759d)
 >
 
 >
-![numbers2](https://github.com/Tink-Bell/StenoBee/assets/143440063/6918a749-16a6-45eb-96a4-18971f53a038)
+![7](https://github.com/Tink-Bell/StenoBee/assets/143440063/2fbca647-b029-42d5-a06b-b51de26b523b)
 >
 
 >
-![symb](https://github.com/Tink-Bell/StenoBee/assets/143440063/ee7dc5ec-1039-41bd-a4b5-cc388cbcdaa0)
+![8](https://github.com/Tink-Bell/StenoBee/assets/143440063/c4068cb8-bc6e-463a-b57e-7c11b1cddd20)
 >
 
 >
-![STENOBEE_example](https://github.com/Tink-Bell/StenoBee/assets/143440063/d35d6ba6-cf48-4928-ad1b-6ac3a1719c6b)
+![9](https://github.com/Tink-Bell/StenoBee/assets/143440063/28565781-a797-4cb9-a17c-b705f7a89141)
 >
 
 >
-![Screenshot from 2023-09-26 20-17-12](https://github.com/Tink-Bell/StenoBee/assets/143440063/c6d5c685-e5ca-4707-8218-0b65ffb7bcd2)
->
-
->
-![Comparison](https://github.com/Tink-Bell/StenoBee/assets/143440063/ad3bdf0f-a322-47df-b9cf-7e5ad4d334ea)
+![10](https://github.com/Tink-Bell/StenoBee/assets/143440063/33cfc9e4-b72b-467e-9a43-17d6e0786a34)
 >
 
 >
@@ -110,7 +106,7 @@ https://www.dropbox.com/scl/fi/dfnrg4mn40s8mrj70d89y/List-to-Common-Json-Tools.z
 >
 
 >
-![examples](https://github.com/Tink-Bell/StenoBee/assets/143440063/a28a3695-86d0-4463-a5e6-3cf9dd6050b4)
+![11](https://github.com/Tink-Bell/StenoBee/assets/143440063/8200202a-0e7e-47e2-9850-ff3b7a72ccd9)
 >
 
 
