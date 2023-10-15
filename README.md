@@ -24,7 +24,7 @@ StenoBee, is a spelling based, orderless Steno theory for Plover.
 >
 
 >
-![3](https://github.com/Tink-Bell/StenoBee/assets/143440063/6f0250a2-5ceb-4b59-9d09-fd344bb76dd8)
+![3](https://github.com/Tink-Bell/StenoBee/assets/143440063/68deabaf-d5f7-45b8-bed4-49bd767f10c9)
 >
 
 >
