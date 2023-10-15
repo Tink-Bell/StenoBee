@@ -88,7 +88,7 @@ def reverse_lookup(text):
             keys = "Z" + keys
 
         result.append(keys + suffix)
-        buffer, descending, append_decimal = ("", False, False, False)
+        buffer, descending, append_decimal = ("", False, False)
 
     for c in text:
         if c not in NUMERIC:
