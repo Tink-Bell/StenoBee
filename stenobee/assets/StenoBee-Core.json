@@ -1,5 +1,6 @@
 {
-"^S-*": "{:pluralize}",
+"^SQ-*": "{:pluralize}",
+"^QZ-*": "{^}'s",
 "SLCR-*": "{^\n^}",
 "XPSL-*": "{PLOVER:TOGGLE}",
 "SR-*": "{#backspace}",
