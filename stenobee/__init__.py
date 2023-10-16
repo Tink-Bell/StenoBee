@@ -59,6 +59,7 @@ DEFAULT_DICTIONARIES = (
     'StenoBee-Minecraft.json',
     'StenoBee-Minerals.json',
     'StenoBee-Chemistry.json',
+    'StenoBee-ModeSetSpace.json',
 )
 
 
