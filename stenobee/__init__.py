@@ -52,16 +52,15 @@ DEFAULT_DICTIONARIES = (
     'StenoBee-Common.json',
     'StenoBee-Proper-Nouns.json',
     'StenoBee-Numbers.py',
-    'StenoBee-Ergo_Numbers.json',
-    'StenoBee-EndCap.json',
-    'StenoBee-Pokemon.json',
-    'StenoBee-Emoji.json',
-    'StenoBee-Minecraft.json',
-    'StenoBee-Minerals.json',
-    'StenoBee-Chemistry.json',
-    'StenoBee-ModeSetSpace.json',
+    'StenoBee-Alt_Ergo_Numbers.json',
+    'StenoBee-Symbols&Spelling.json',
+    'StenoBeeNiche-Pokemon-[KPMN].json',
+    'StenoBeeNiche-Emoji-[MJ].json',
+    'StenoBeeNiche-Minecraft-[MTCNRF].json',
+    'StenoBeeNiche-Mineral-[MLNR].json',
+    'StenoBeeNiche-Chemistry-[MSHTCR].json',
+    'StenoBeeNiche-ModeSetSpace-[PMSTCD].json',
 )
-
 
 
 
