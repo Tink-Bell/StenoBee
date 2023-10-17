@@ -170,8 +170,8 @@ NEC
 NES
 NFC
 NFL
-NOW
 Nan
+Nao
 Ned
 Neo
 Net

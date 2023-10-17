@@ -87,6 +87,7 @@
 "^HV-AE": "{^}'ve",
 "^TN-O": "{^}n't",
 "^SN-E": "{^}ness",
+"SHLTND-OI/^HV-AE": "shouldn't've",
 "-A": "a",
 "-E": "e",
 "-I": "i",
