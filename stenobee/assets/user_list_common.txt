@@ -6955,6 +6955,7 @@ golems
 goo
 goods
 googling
+goose
 gotcha
 goto
 governmental
@@ -9633,6 +9634,7 @@ geckos
 gee
 geek
 geeks
+geese
 geez
 gendered
 genderfluid
@@ -9685,7 +9687,6 @@ goodlooking
 goodnight
 goodwill
 goofed
-goose
 gorge
 governors
 grabs
