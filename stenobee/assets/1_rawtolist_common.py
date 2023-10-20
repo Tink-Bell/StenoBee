@@ -26,13 +26,7 @@ def tokenize_text(text):
 def rank_words(text, cleaned_words):
     words = tokenize_text(text)
     word_counts = Counter(words)
-    
-    def custom_sort_key(word):
-        frequency = -word_counts[word]
-        alphabetical_order = word
-        return (frequency, alphabetical_order)
-    
-    ranked_words = OrderedDict(sorted(word_counts.items(), key=lambda x: custom_sort_key(x[0])))
+    ranked_words = OrderedDict(sorted(word_counts.items(), key=lambda x: -x[1]))
     return ranked_words
 
 def main():
