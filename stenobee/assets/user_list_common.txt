@@ -269,7 +269,6 @@ basically
 enchanting
 changes
 never
-star
 often
 key
 above
@@ -513,6 +512,7 @@ delete
 drop
 especially
 man
+star
 under
 clicking
 enchanted
