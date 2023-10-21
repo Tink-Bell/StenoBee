@@ -76,7 +76,7 @@ Some things that StenoBee is Good for
 >
 
 >
-![9](https://github.com/Tink-Bell/StenoBee/assets/143440063/28565781-a797-4cb9-a17c-b705f7a89141)
+![9](https://github.com/Tink-Bell/StenoBee/assets/143440063/597dda50-3016-4505-94e7-94256f5fb5c4)
 >
 
 >
