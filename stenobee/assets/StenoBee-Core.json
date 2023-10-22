@@ -5,6 +5,7 @@
 "XPSL-*": "{PLOVER:TOGGLE}",
 "SR-*": "{#backspace}",
 "LC-*": "{#shift(return)}",
+"TNR-*": "{#shift(return)}",
 "-*": "=undo",
 "TN-*": "{^ ^}",
 "PSC-*": "{^ ^}",
