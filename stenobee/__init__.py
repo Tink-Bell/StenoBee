@@ -59,6 +59,7 @@ DEFAULT_DICTIONARIES = (
     'StenoBeeNiche-Minecraft-[MTCNRF].json',
     'StenoBeeNiche-Mineral-[MLNR].json',
     'StenoBeeNiche-Chemistry-[MSHTCR].json',
+    'StenoBeeNiche-Music&Instruments-[MSTCNRD].json',
     'StenoBeeNiche-ModeSetSpace-[PMSTCD].json',
 )
 
