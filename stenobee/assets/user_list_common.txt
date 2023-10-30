@@ -7727,6 +7727,7 @@ swift
 swings
 swooped
 swung
+tablet
 tabs
 talented
 teams
@@ -7916,6 +7917,7 @@ bros
 bury
 caltrop
 castle
+clay
 cleaver
 cliffs
 commie
@@ -11371,7 +11373,6 @@ synergy
 synonymous
 synth
 symptoms
-tablet
 tablist
 tack
 tackle
@@ -11905,7 +11906,6 @@ chortle
 chubby
 chuck
 chungus
-clay
 clippy
 collisions
 comedian
@@ -12262,3 +12262,5 @@ chimera
 discombobulate
 discombobulating
 discombobulation
+cauliflower
+kiln
