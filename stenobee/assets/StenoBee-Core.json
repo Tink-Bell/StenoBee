@@ -1,4 +1,5 @@
 {
+"PTR-*": "{*+}",
 "TNR-*": "{^\n^}",
 "^TNR-*": "{#shift(return)}",
 "^SQ-*": "{:pluralize}",
