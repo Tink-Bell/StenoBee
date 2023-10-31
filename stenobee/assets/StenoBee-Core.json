@@ -1,4 +1,5 @@
 {
+"SLTNRD-*": "{PLOVER:ADD_TRANSLATION}",
 "PTR-*": "{*+}",
 "TNR-*": "{^\n^}",
 "^TNR-*": "{#shift(return)}",
