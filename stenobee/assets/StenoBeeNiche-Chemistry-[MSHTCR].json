@@ -1,8 +1,6 @@
 {
 "MSHTCR/-A": "AA",
 "MSHTCR/-AE": "EA",
-"MSHTCR//JQ": "",
-"MSHTCR/JQ": "",
 "MSHTCR/C-A": "CA",
 "MSHTCR/C-O": "CO",
 "MSHTCR/CD-E": "EDC",
@@ -10223,8 +10221,6 @@
 "MSHTCR/XV": "VX",
 "-A/^MSHTCR": "AA",
 "-AE/^MSHTCR": "EA",
-"/JQ/^MSHTCR": "",
-"JQ/^MSHTCR": "",
 "C-A/^MSHTCR": "CA",
 "C-O/^MSHTCR": "CO",
 "CD-E/^MSHTCR": "EDC",
