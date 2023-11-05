@@ -1,4 +1,5 @@
 {
+"KPL-*": "{PLOVER:LOOKUP}",
 "SLTNRD-*": "{PLOVER:ADD_TRANSLATION}",
 "PTR-*": "{*+}",
 "TNR-*": "{^\n^}",
