@@ -1,9 +1,10 @@
 {
+"LTG-*": "{PLOVER:TOGGLE}",
 "KPL-*": "{PLOVER:LOOKUP}",
-"SLTNRD-*": "{PLOVER:ADD_TRANSLATION}",
 "PTR-*": "{*+}",
 "TNR-*": "{^\n^}",
 "^TNR-*": "{#shift(return)}",
+"SLTNRD-*": "{PLOVER:ADD_TRANSLATION}",
 "^SQ-*": "{:pluralize}",
 "^QZ-*": "{^}'s",
 "XPSL-*": "{PLOVER:TOGGLE}",

@@ -244677,7 +244677,7 @@ plenty
 plenty
 plenty
 plenty
-pleople
+people
 pliable
 plight
 plight
@@ -245471,7 +245471,7 @@ plugin
 plugin
 plugin
 plugin
-pluging
+plugging
 plugins
 plugins
 plugins
@@ -245869,12 +245869,12 @@ poem
 poem
 poem
 poem
-poeple
-poeple
-poeple
-poeple
-poeple
-poeple
+people
+people
+people
+people
+people
+people
 point
 point
 point
