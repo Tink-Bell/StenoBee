@@ -3925,7 +3925,6 @@ plants
 platforms
 plug
 plume
-poeple
 poison
 politically
 pose
@@ -7333,6 +7332,7 @@ plight
 plop
 plotted
 plucking
+plugging
 pod
 pointer
 pointy
@@ -10524,12 +10524,9 @@ playbook
 playlist
 playoffs
 pleasant
-pleople
 pliable
 plots
 plugged
-plugging
-pluging
 plummeted
 plummeting
 plundered
@@ -12262,3 +12259,5 @@ discombobulating
 discombobulation
 cauliflower
 kiln
+buffer
+buffering
