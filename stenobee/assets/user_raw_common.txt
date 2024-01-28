@@ -10434,8 +10434,8 @@ amazing
 amazing
 amazingly
 ambient
-ambigious
-ambigious
+ambiguous
+ambiguous
 ambiguous
 amended
 amendment
@@ -431936,3 +431936,4 @@ tablet
 kiln
 buffer
 buffering
+deteriorate

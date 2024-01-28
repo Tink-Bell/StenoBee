@@ -5302,6 +5302,7 @@ alcohol
 allegedly
 alerts
 alterations
+ambiguous
 amplified
 analysis
 angel
@@ -6338,7 +6339,6 @@ altered
 altering
 alternate
 alternatively
-ambigious
 amplify
 anagrams
 analogs
@@ -8145,7 +8145,6 @@ amateur
 amateurs
 amazingly
 ambient
-ambiguous
 amended
 amendments
 amidst
@@ -12261,3 +12260,4 @@ cauliflower
 kiln
 buffer
 buffering
+deteriorate
