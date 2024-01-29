@@ -55,6 +55,7 @@ DEFAULT_DICTIONARIES = (
     'StenoBee-Alt_Ergo_Numbers.json',
     'StenoBee-Symbols&Spelling.json',
     'StenoBee-Modifiers.json',
+    'StenoBeeNiche-Mathematics-[MSHTC].json',
     'StenoBeeNiche-Pokemon-[KPMN].json',
     'StenoBeeNiche-Emoji-[MJ].json',
     'StenoBeeNiche-Minecraft-[MTCNRF].json',
