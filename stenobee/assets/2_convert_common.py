@@ -19,6 +19,10 @@ def replace_characters(word):
             result += char
     return result
 
+
+
+
+
 # Function to encode a word
 def encode_word(word, encoded_words):
     original_word = word
@@ -60,6 +64,8 @@ def encode_word(word, encoded_words):
         encoded_words[encoded_word] = original_word
 
     return [encoded_word]
+
+
 
 
 

@@ -399,13 +399,13 @@ wait
 ok
 called
 updated
+control
 example
 home
 past
 says
 theory
 yet
-control
 every
 ram
 area
@@ -458,11 +458,11 @@ eco
 job
 moving
 error
+currently
 gave
 score
 text
 am
-currently
 support
 almost
 changing
@@ -1871,6 +1871,7 @@ assuming
 boy
 burst
 clearing
+conflicting
 consent
 crime
 detail
@@ -1944,7 +1945,6 @@ chaos
 cheaper
 complete
 confident
-conflicting
 content
 critical
 differences
@@ -2184,6 +2184,7 @@ automatic
 besides
 boat
 budget
+calculation
 children
 chosen
 citizens
@@ -2279,7 +2280,6 @@ avoiding
 bet
 browser
 builds
-calculation
 cancel
 carefully
 causation
@@ -3840,6 +3840,7 @@ gaming
 gap
 gate
 generally
+genuinely
 glowing
 governments
 gradient
@@ -4258,7 +4259,6 @@ frustrating
 funded
 gameplay
 garden
-genuinely
 glitched
 grabbing
 grade
@@ -5456,7 +5456,6 @@ contact
 contained
 contented
 contribution
-controll
 convenience
 coronavirus
 cos
@@ -7212,7 +7211,7 @@ noice
 norm
 normalized
 notch
-noticable
+noticeable
 notifications
 notoriously
 nozzle
@@ -8493,7 +8492,6 @@ cache
 cadence
 calculus
 calcs
-calcultion
 calender
 callable
 caller
@@ -8732,7 +8730,6 @@ conduit
 confess
 configuration
 conflate
-confliciting
 confluence
 conformity
 confront
@@ -8851,7 +8848,6 @@ cumulative
 cunt
 curating
 curb
-curently
 curiosity
 currated
 currents
@@ -9852,7 +9848,7 @@ invulnerability
 invulnerable
 inward
 ion
-irratically
+erratically
 irrationally
 irrespective
 irreversibly
@@ -11981,7 +11977,6 @@ gamers
 gaslight
 geek
 genesis
-genuinley
 gill
 glitchy
 goliath

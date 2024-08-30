@@ -53812,7 +53812,7 @@ calculator
 calculator
 calculator
 calculator
-calcultion
+calculation
 calendar
 calendar
 calendar
@@ -65525,7 +65525,7 @@ confirms
 confirms
 confirms
 conflate
-confliciting
+conflicting
 conflict
 conflict
 conflict
@@ -66723,9 +66723,9 @@ control
 control
 control
 control
-controll
-controll
-controll
+control
+control
+control
 controlled
 controlled
 controlled
@@ -70310,7 +70310,7 @@ cure
 cure
 cured
 cured
-curently
+currently
 curiosity
 curious
 curious
@@ -145268,7 +145268,7 @@ irony
 irony
 irony
 irony
-irratically
+erratically
 irrationally
 irrespective
 irreversibly
@@ -211848,8 +211848,8 @@ nothing
 nothing
 nothing
 notice
-noticable
-noticable
+noticeable
+noticeable
 notice
 notice
 notice
@@ -417981,7 +417981,7 @@ general
 general
 generation
 genesis
-genuinley
+genuinely
 get
 get
 get
