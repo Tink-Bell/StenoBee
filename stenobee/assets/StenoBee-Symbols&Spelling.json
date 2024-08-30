@@ -75,6 +75,7 @@
 "^L-AE": "{^}ly",
 "^R-E": "{^}er",
 "^TN-AI": "{#control(left)}anti{^}{#control(right)}{#right}",
+"^PR-E": "{#control(left)}pre{^}{#control(right)}{#right}",
 "^S-EI": "{^}ise",
 "^Z-EI": "{^}ize",
 "^SH-I": "{^}ish",

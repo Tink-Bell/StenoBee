@@ -599,11 +599,11 @@ tiny
 below
 choose
 clear
+given
 leave
 sometimes
 unless
 answer
-given
 hate
 process
 term
@@ -686,6 +686,7 @@ configs
 happens
 house
 large
+recipes
 save
 thinking
 wanna
@@ -696,7 +697,6 @@ came
 entry
 fake
 keyboard
-recipes
 tick
 within
 cauldron
@@ -757,6 +757,7 @@ trust
 act
 apparently
 close
+exploit
 happy
 hoping
 lose
@@ -776,7 +777,6 @@ regular
 supposed
 chest
 double
-exploit
 fan
 freedom
 gender
@@ -1110,6 +1110,7 @@ land
 living
 materials
 previous
+quarantine
 reduce
 release
 return
@@ -1136,7 +1137,6 @@ issued
 jobs
 picture
 ping
-quarantine
 simpler
 sleep
 slot
@@ -1157,6 +1157,7 @@ loaded
 memory
 mysterious
 node
+performance
 prefer
 previously
 registered
@@ -1178,7 +1179,6 @@ laws
 lines
 mark
 payment
-performance
 pop
 population
 quit
@@ -1239,6 +1239,7 @@ bring
 building
 bypass
 drive
+earth
 eat
 effort
 fear
@@ -1264,7 +1265,6 @@ combination
 connect
 description
 dozen
-earth
 feedback
 follow
 gem
@@ -1464,6 +1464,7 @@ deep
 dirt
 draw
 election
+generate
 grind
 hair
 helpful
@@ -1472,6 +1473,7 @@ index
 knows
 length
 morning
+spaces
 parents
 personally
 possibly
@@ -1506,7 +1508,6 @@ effected
 entity
 evil
 exist
-generate
 hacked
 helmet
 hide
@@ -1525,7 +1526,6 @@ private
 purpose
 released
 selected
-spaces
 sucks
 switch
 thumb
@@ -1560,6 +1560,7 @@ newly
 placed
 plant
 protest
+quarantined
 safety
 sending
 seed
@@ -1595,7 +1596,6 @@ pickaxe
 pixel
 posts
 proof
-quarantined
 race
 resist
 regardless
@@ -1816,6 +1816,7 @@ corruption
 crystal
 divine
 doubt
+equipped
 erased
 examples
 exception
@@ -2421,7 +2422,6 @@ drama
 dust
 dynamic
 enjoyed
-equipped
 essentials
 met
 familiar
@@ -2460,6 +2460,8 @@ noun
 odd
 offence
 partisan
+permission
+philosophy
 phrases
 pickup
 pointless
@@ -2586,7 +2588,6 @@ odds
 offset
 opening
 outer
-permission
 plane
 plot
 pointing
@@ -2674,6 +2675,7 @@ co
 coins
 combat
 comment
+compatibility
 compete
 confusion
 connections
@@ -2743,7 +2745,6 @@ pause
 paycheck
 period
 persons
-philosophy
 prescription
 print
 programs
@@ -3303,6 +3304,7 @@ overlay
 ownership
 peak
 powers
+preferred
 prime
 pro
 problematic
@@ -3452,7 +3454,6 @@ collecting
 collection
 comedy
 compass
-compatibility
 competing
 complaining
 consequences
@@ -3494,7 +3495,6 @@ endlessly
 enforcing
 entered
 episodes
-equiped
 equivalent
 estrogen
 euros
@@ -3528,6 +3528,7 @@ holes
 hopes
 humanity
 icons
+implementing
 independent
 influences
 ingot
@@ -3859,7 +3860,6 @@ hurry
 identical
 immensely
 impatient
-implementing
 improvement
 improvements
 inner
@@ -4394,8 +4394,6 @@ pollen
 pounds
 pouring
 powdered
-pre
-prefered
 preserved
 presidential
 prevention
@@ -4683,7 +4681,6 @@ colored
 comfortably
 communication
 communities
-compatability
 compelling
 compensate
 compilation
@@ -5571,12 +5568,12 @@ exchange
 excitement
 excludes
 exclusive
+existent
 exiting
 expel
 exploited
 exploiting
 explosive
-expoit
 exponential
 expressing
 extraction
@@ -5903,7 +5900,6 @@ practiced
 practices
 prank
 prediction
-preferred
 premade
 preparation
 preset
@@ -6797,7 +6793,6 @@ excuses
 executed
 execution
 exercises
-existent
 expansion
 expansions
 expectations
@@ -7296,6 +7291,7 @@ pee
 penalize
 penalizes
 penis
+pentagrams
 people's
 pepper
 performative
@@ -7307,7 +7303,6 @@ personalities
 pestilence
 petrified
 phantom
-philosphy
 phoneme
 phonemic
 phonology
@@ -9012,7 +9007,7 @@ dismantled
 disorder
 disorienting
 disorients
-dispacement
+displacement
 dispite
 displacing
 disposable
@@ -9131,7 +9126,6 @@ dysmorphia
 dystopia
 eagerly
 earners
-eart
 easter
 easies
 echant
@@ -9237,7 +9231,6 @@ executioners
 exemplifies
 exemption
 exes
-existant
 existential
 exited
 exonerating
@@ -9477,7 +9470,6 @@ genocide
 genome
 gently
 geodes
-gererate
 gesture
 ghetto
 ghoul
@@ -9485,7 +9477,6 @@ gifts
 gig
 gigabyte
 girlfriends
-givent
 gladly
 glasswire
 glide
@@ -9517,7 +9508,6 @@ grandmas
 granted
 graphed
 grasshoppers
-greift
 grids
 grieved
 grieving
@@ -9713,7 +9703,6 @@ impersonator
 impersonators
 implicated
 implied
-implimenting
 importance
 impose
 impossibly
@@ -10249,7 +10238,6 @@ normies
 northeast
 northeastern
 nosed
-nospaces
 nostalgic
 noted
 notepad
@@ -10448,16 +10436,13 @@ pegged
 pen
 penalizing
 penaltly
-pentagrams
 percentages
 perch
 perfidy
-perfomance
 performances
 performer
 periodically
 perma
-permision
 perpetual
 persistent
 person's
@@ -10568,6 +10553,7 @@ practicing
 pranks
 pray
 praying
+pre
 preach
 preachers
 preaches
@@ -10691,8 +10677,6 @@ quad
 quadratic
 qualifies
 qualify
-quaratine
-quarntined
 questionably
 questioned
 queues
@@ -10751,7 +10735,6 @@ rebuilt
 rebutting
 recapping
 rechargeable
-recipees
 reciting
 reclassification
 reclassified
@@ -11167,7 +11150,6 @@ solving
 somatic
 someday
 somekind
-somepeople
 somethings
 sonorance
 sons
@@ -12087,7 +12069,6 @@ pads
 pal
 papa
 penta
-pentgrams
 pep
 permaban
 pixelator
@@ -12167,7 +12148,6 @@ streaker
 subvert
 sudoku
 swallows
-swipey
 taxed
 tazed
 tessellate
