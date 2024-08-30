@@ -2542,6 +2542,7 @@ defend
 define
 definitely
 demo
+disappear
 donor
 downloaded
 duping
@@ -2832,7 +2833,6 @@ culture
 destroyed
 dialect
 dinner
-disapear
 divide
 dono
 dozens
@@ -4750,6 +4750,8 @@ differ
 digging
 dirty
 disables
+disappeared
+disappearing
 discovered
 disease
 disguised
@@ -5507,8 +5509,6 @@ digger
 digit
 directed
 disagreement
-disapeared
-disapearing
 discoveries
 discs
 displays
@@ -5893,6 +5893,7 @@ pollinated
 polls
 pools
 poorly
+populations
 ports
 poses
 posters
@@ -6689,7 +6690,6 @@ dips
 diphthongs
 directional
 disallowed
-disappear
 disappointed
 discomfort
 discount
@@ -7342,7 +7342,6 @@ poofs
 poop
 populate
 populated
-populations
 populist
 populous
 possibilities
@@ -8983,8 +8982,6 @@ diplomacy
 dipshits
 directing
 directories
-disappeared
-disappearing
 disapproval
 disasters
 disc
@@ -10547,7 +10544,6 @@ ponies
 poofed
 pooped
 poorer
-popoulations
 poppy
 popularity
 pore
