@@ -70338,9 +70338,9 @@ curious
 curious
 curious
 curious
-curiousity
-curiousity
-curiousity
+curiosity
+curiosity
+curiosity
 curly
 curly
 currated
@@ -143376,7 +143376,7 @@ injections
 injections
 injections
 injections
-injest
+ingest
 injuries
 injuries
 injuries
@@ -143535,7 +143535,7 @@ insist
 insist
 insist
 insisted
-insistend
+insistent
 insists
 insists
 insomnia
@@ -266445,7 +266445,7 @@ seeing
 seeing
 seeing
 seeing
-seeinng
+seeing
 seek
 seek
 seek
@@ -355855,6 +355855,11 @@ tier
 ties
 ties
 ties
+ties
+ties
+ties
+ties
+ties
 tiff
 tight
 tight
@@ -431683,10 +431688,6 @@ yeeting
 yeeting
 yeeting
 yeeting
-yeets
-yeets
-yeets
-yeets
 yeets
 yeets
 yeets
