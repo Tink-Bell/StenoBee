@@ -1,6 +1,7 @@
 {
 "LTG-*": "{PLOVER:TOGGLE}",
 "KPL-*": "{PLOVER:LOOKUP}",
+"PTD-*": "{PLOVER:UPDATE}",
 "PTR-*": "{*+}",
 "TNR-*": "{^\n^}",
 "^TNR-*": "{#shift(return)}",
@@ -16,3 +17,6 @@
 "HD-*": "{-|}",
 "^": "{^}"
 }
+
+
+
