@@ -882,6 +882,7 @@ mine
 such
 together
 windows
+fox
 average
 border
 cases
@@ -898,7 +899,6 @@ style
 talked
 um
 versions
-fox
 course
 dead
 delay
@@ -1000,6 +1000,7 @@ expect
 felt
 leaving
 location
+mouse
 otherwise
 problems
 quickly
@@ -1020,7 +1021,6 @@ friends
 healing
 looked
 meta
-mouse
 row
 self
 slow
@@ -1455,6 +1455,7 @@ island
 although
 applies
 assume
+bee
 breaks
 button
 clean
@@ -1498,7 +1499,7 @@ apple
 attempt
 barely
 becoming
-bee
+bird
 bottle
 cover
 crashed
@@ -1537,7 +1538,6 @@ constitution
 south
 approval
 bases
-bird
 blessing
 chances
 compared
@@ -1619,6 +1619,7 @@ dropping
 emerald
 falling
 fence
+frog
 front
 grew
 hot
@@ -1713,7 +1714,6 @@ donated
 elytra
 exists
 flight
-frog
 further
 gray
 handles
@@ -1815,6 +1815,7 @@ confusing
 corruption
 crystal
 divine
+dog
 doubt
 equipped
 erased
@@ -1951,7 +1952,6 @@ critical
 differences
 differently
 distinct
-dog
 dying
 effectively
 excuse
@@ -2023,6 +2023,7 @@ bias
 blank
 blood
 card
+chicken
 closest
 coin
 cold
@@ -2085,6 +2086,7 @@ written
 erm
 federal
 reskin
+wolf
 acting
 ads
 advantage
@@ -2098,7 +2100,6 @@ boring
 bother
 bound
 burn
-chicken
 civil
 contents
 decades
@@ -2171,7 +2172,6 @@ villagers
 walking
 wither
 younger
-wolf
 abused
 accurate
 aggressive
@@ -2810,6 +2810,7 @@ aside
 asshole
 author
 batch
+bear
 beauty
 blaze
 bubbling
@@ -2872,6 +2873,7 @@ maths
 mirror
 mission
 moderation
+monkey
 mouth
 multiplier
 multiply
@@ -2978,7 +2980,6 @@ badges
 balancing
 baseline
 battle
-bear
 behave
 bits
 bleed
@@ -3075,7 +3076,6 @@ milk
 mistakes
 mobile
 moderately
-monkey
 mono
 namely
 nearby
@@ -3128,6 +3128,7 @@ scene
 sends
 serve
 shame
+sheep
 shoe
 shoulder
 simplest
@@ -3254,6 +3255,7 @@ gear
 genuine
 geyser
 goals
+goat
 grabbed
 grumpy
 gust
@@ -3519,13 +3521,13 @@ galaxies
 gaps
 glow
 glue
-goat
 hanging
 happily
 hating
 hats
 holes
 hopes
+horse
 humanity
 icons
 implementing
@@ -3581,6 +3583,7 @@ numeral
 offered
 optimize
 outputs
+owl
 owned
 pages
 paint
@@ -3637,7 +3640,6 @@ separation
 settle
 seven
 shards
-sheep
 skeleton
 skills
 slowed
@@ -3811,6 +3813,7 @@ dive
 doxing
 drugs
 dual
+duck
 dumbass
 effectiveness
 efficient
@@ -3882,6 +3885,7 @@ lesser
 lest
 let's
 libertarians
+lion
 listener
 litterally
 locking
@@ -3922,6 +3926,7 @@ pet
 phones
 physical
 pics
+pig
 plants
 platforms
 plug
@@ -4209,7 +4214,6 @@ downsides
 draft
 drains
 dramatic
-duck
 duplicate
 duplicates
 echest
@@ -4282,7 +4286,6 @@ hop
 hopeful
 horizontal
 hormone
-horse
 hotbar
 hover
 hue
@@ -4327,7 +4330,6 @@ liberty
 lied
 linked
 links
-lion
 literal
 locally
 located
@@ -4637,6 +4639,7 @@ birthday
 blessings
 blocker
 blown
+boar
 boats
 boiling
 bomb
@@ -4654,6 +4657,7 @@ brick
 bucket
 buffing
 bugged
+buzz
 bypassed
 bypasses
 candidates
@@ -4757,6 +4761,7 @@ dismissed
 distracting
 docs
 documents
+donkey
 doom
 doxed
 dreams
@@ -5004,7 +5009,6 @@ overflow
 overlapping
 overloaded
 overthrow
-owl
 owning
 painful
 pains
@@ -5025,7 +5029,6 @@ phonemes
 phonetics
 pi
 pickaxes
-pig
 pile
 pills
 pink
@@ -5111,6 +5114,7 @@ saturated
 sauce
 scammer
 scope
+screech
 scrotum
 seek
 semi
@@ -5242,6 +5246,7 @@ workers
 zones
 apex
 appeals
+bull
 bunny
 cab
 captcha
@@ -5365,7 +5370,6 @@ blew
 blinding
 blowing
 blur
-boar
 boasted
 bodies
 boil
@@ -5393,7 +5397,6 @@ bureaucracy
 burrito
 butter
 buys
-buzz
 cacti
 caffiene
 calendar
@@ -5516,8 +5519,8 @@ doctors
 documentary
 dodged
 dodging
+dolphin
 domains
-donkey
 doors
 dose
 doubled
@@ -5856,6 +5859,7 @@ pad
 paired
 pangram
 parody
+parrot
 parrots
 participate
 particularly
@@ -6245,7 +6249,6 @@ zoning
 zoomed
 aids
 bro
-bull
 burger
 burns
 capitol
@@ -6255,6 +6258,7 @@ champ
 congress
 copyright
 crane
+crow
 culler
 dang
 director
@@ -6269,6 +6273,7 @@ keywords
 lastly
 logos
 lord
+meow
 moose
 planetarium
 psychology
@@ -6421,6 +6426,7 @@ behalf
 behaves
 believable
 believers
+bellow
 benefiting
 berries
 betrays
@@ -6705,7 +6711,6 @@ distro
 distrust
 disturbing
 diverge
-dolphin
 donators
 doomed
 dotted
@@ -6748,6 +6753,7 @@ elect
 elector
 electrolysis
 elemental
+elephant
 elevations
 eligible
 elites
@@ -7271,7 +7277,6 @@ parallel
 parenthesis
 parenting
 parks
-parrot
 parsing
 partisanship
 partner
@@ -7916,7 +7921,6 @@ cliffs
 commie
 crafter
 crit
-crow
 crown
 dental
 department
@@ -7966,7 +7970,6 @@ mag
 marathon
 meetup
 meh
-meow
 meth
 minecraft
 mint
@@ -8003,6 +8006,7 @@ tarot
 terra
 toad
 transhuman
+turkey
 unlerp
 utopia
 virgin
@@ -8013,6 +8017,9 @@ web
 woah
 workouts
 zen
+bark
+neigh
+cluck
 abandon
 abandoning
 abandons
@@ -8320,7 +8327,6 @@ behavioral
 beliefs
 believer
 belittled
-bellow
 belonging
 beloved
 benchmark
@@ -9150,7 +9156,6 @@ electrically
 electronic
 electrons
 elementary
-elephant
 elevation
 eliminate
 embarrassment
@@ -10980,7 +10985,6 @@ scored
 scrap
 scraping
 scrapped
-screech
 screaming
 screams
 screw
@@ -12164,7 +12168,6 @@ trashier
 trolley
 tuck
 tumbleweed
-turkey
 uninstalled
 unleashed
 upsetting
@@ -12239,3 +12242,38 @@ iterative
 iterating
 detest
 disastrous
+moo
+roar
+oink
+quack
+bleat
+hiss
+snake
+caw
+chirp
+howl
+croak
+squeak
+grunt
+gobble
+trumpet
+chatter
+growl
+whinny
+baa
+hoot
+ribbit
+snort
+coo
+pigeon
+whine
+yap
+squeal
+piglet
+hen
+bray
+warble
+songbird
+hum
+hummingbird
+eagle
