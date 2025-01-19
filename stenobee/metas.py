@@ -13,3 +13,9 @@ def pluralize(ctx, _):
   action.prev_attach = True
 
   return action
+
+k = pluralize
+
+
+
+
