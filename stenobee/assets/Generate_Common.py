@@ -9,13 +9,11 @@ from unidecode import unidecode
 VOWELS = "AEIOUYWaeiouyw"
 
 def has_vowels(word):
-    # Return True if word has at least one vowel but is not all vowels
     return any(c in VOWELS for c in word) and not all(c in VOWELS for c in word)
 
 # --- Text processing utilities ---
 
 def tokenize_text(text):
-    # Match words including apostrophes (e.g., don't)
     return re.findall(r"\b(?:[A-Za-z]+(?:'\w+)?)\b", text)
 
 # --- Encoding utilities ---
@@ -24,15 +22,11 @@ vowel_mapping = {
     'W': 'OA', 'U': 'OI', 'Y': 'EI',
     'w': 'OA', 'u': 'OI', 'y': 'EI',
 }
-
+# The standard disambiguation suffix sequence
 suffix_sequence = ['JQ', 'XQ', 'QZ', 'KQ', 'QV', 'XJQ', 'JQZ', 'KJQ', 'JQV', 'XJQZ', 'JQVZ', 'XKJQ', 'KJQV']
 
-
 def replace_characters(word):
-    result = []
-    for ch in word:
-        result.append(vowel_mapping.get(ch, ch))
-    return ''.join(result)
+    return ''.join(vowel_mapping.get(ch, ch) for ch in word)
 
 
 def combine_suffix(input_string):
@@ -40,7 +34,7 @@ def combine_suffix(input_string):
         return input_string
     base, suffix = input_string.split('/')
     combined = ''.join(sorted(base + suffix))
-    return ''.join([c for c in letter_order if c in combined])
+    return ''.join(c for c in letter_order if c in combined)
 
 
 def next_suffix(current):
@@ -53,125 +47,130 @@ def next_suffix(current):
 # --- Core functions ---
 
 def rank_words(text):
-    words = tokenize_text(text)
-    counts = Counter(words)
+    counts = Counter(tokenize_text(text))
     return OrderedDict(sorted(counts.items(), key=lambda x: -x[1]))
 
 
 def encode_word(word, encoded_words, encoded_suffix_words):
     orig = word
-    word = replace_characters(unidecode(word))
+    processed = replace_characters(unidecode(word))
     encoded = []
-    found_vowel_group = False
+    found_vowel = False
 
-    # Build encoding per letter_order
     for letter in letter_order:
-        if letter == '-' or letter.lower() in word.lower():
+        if letter == '-' or letter.lower() in processed.lower():
             if letter in vowel_mapping:
-                if found_vowel_group:
+                if found_vowel:
                     encoded.append('-')
-                found_vowel_group = True
+                found_vowel = True
             encoded.append(letter)
 
     enc_str = ''.join(encoded)
-    if not found_vowel_group:
+    if not found_vowel:
         enc_str = enc_str.rstrip('-')
 
-    # Handle duplicates with suffix
-    if enc_str in encoded_words:
-        suffix = suffix_sequence[0]
-        while suffix is not None:
-            candidate = f"{enc_str}/{suffix}"
-            if candidate not in encoded_words and combine_suffix(candidate) not in encoded_suffix_words:
-                enc_str = candidate
-                break
-            suffix = next_suffix(suffix)
-        else:
-            return None  # Overflow
+    # No collision -> base encoding
+    if enc_str not in encoded_words:
         encoded_words[enc_str] = orig
-        return [enc_str]
-    else:
-        encoded_words[enc_str] = orig
-        return [enc_str]
+        return enc_str, None
+
+    # Collision: find a suffix from the sequence
+    for suffix in suffix_sequence:
+        candidate = f"{enc_str}/{suffix}"
+        if candidate not in encoded_words and combine_suffix(candidate) not in encoded_suffix_words:
+            encoded_words[candidate] = orig
+            encoded_suffix_words[combine_suffix(candidate)] = orig
+            return enc_str, suffix
+
+    # Overflow
+    return None, None
 
 # --- Main workflow ---
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Process raw text into ranked list and encode into StenoBee JSON.'
-    )
-    parser.add_argument('-r', '--raw_input', default='user_raw_common.txt',
-                        help='Raw input text file')
-    parser.add_argument('-a', '--append_file', default='required_common.txt',
-                        help='File with required/common words to prepend')
-    parser.add_argument('-e', '--extras_file', default='extras_common.txt',
-                        help='File with extra phrases/words to append')
-    parser.add_argument('-o', '--output_json', default='StenoBee-Common.json',
-                        help='Output JSON file')
-    parser.add_argument('-f', '--overflow_file', default='overflow.txt',
-                        help='Overflow output file')
+        description='Process raw text into ranked list and encode into StenoBee JSON with repeat-JQ disambiguation.')
+    parser.add_argument('-r', '--raw_input', default='user_raw_common.txt', help='Raw input text file')
+    parser.add_argument('-a', '--append_file', default='required_common.txt', help='File with required words')
+    parser.add_argument('-e', '--extras_file', default='extras_common.txt', help='File with extra words/phrases')
+    parser.add_argument('-o', '--output_json', default='StenoBee-Common.json', help='Output JSON file')
+    parser.add_argument('-f', '--overflow_file', default='overflow.txt', help='Overflow output file')
     args = parser.parse_args()
 
-    # Verify files exist
+    # Verify input files exist
     for fname in (args.raw_input, args.append_file, args.extras_file):
         if not os.path.isfile(fname):
-            print(f"Error: '{fname}' does not exist.")
+            print(f"Error: '{fname}' not found.")
             sys.exit(1)
 
-    # Read and filter raw text lines
+    # Step 1: Filter raw text lines for vowelless removal
     filtered_lines = []
     with open(args.raw_input, 'r') as f:
         for line in f:
-            words = line.strip().split()
-            if any(has_vowels(w) for w in words):
+            if any(has_vowels(w) for w in line.strip().split()):
                 filtered_lines.append(line)
-
     raw_text = ''.join(filtered_lines)
 
-    # Rank words
-    ranked = rank_words(raw_text)
-    ranked_list = list(ranked.keys())
+    # Step 2: Rank words by frequency
+    ranked = list(rank_words(raw_text).keys())
 
-    # Read append and extras
-    with open(args.append_file, 'r') as f:
-        append_words = [l.strip() for l in f if l.strip()]
-    with open(args.extras_file, 'r') as f:
-        extras_words = [l.strip() for l in f if l.strip()]
+    # Step 3: Load additional lists
+    def load_list(path):
+        with open(path, 'r') as f:
+            return [l.strip() for l in f if l.strip()]
+    append_words = load_list(args.append_file)
+    extras_words = load_list(args.extras_file)
 
-    # Combine words without duplicates, preserving order
+    # Step 4: Combine lists in order without duplicates
     combined = []
-    def add_word(w):
+    for w in append_words + ranked + extras_words:
         if w not in combined:
             combined.append(w)
-    for w in append_words + ranked_list + extras_words:
-        add_word(w)
 
-    # Encode
-    encoded_words = {}
+    # Step 5: Encode all words
+    encoded_words = OrderedDict()
     encoded_suffix_words = {}
     overflow = []
-    for w in combined:
-        result = encode_word(w, encoded_words, encoded_suffix_words)
-        if result is None:
-            overflow.append(w)
-        else:
-            for enc in result:
-                if '/' in enc:
-                    encoded_suffix_words[combine_suffix(enc)] = w
+    # Track base->suffix assignments for repeated JQ
+    repeat_info = []  # list of (base_enc, suffix)
 
-    # Write overflow
+    for w in combined:
+        base_enc, suffix = encode_word(w, encoded_words, encoded_suffix_words)
+        if base_enc is None:
+            overflow.append(w)
+        elif suffix:
+            repeat_info.append((base_enc, suffix))
+
+    # Step 6: Generate repeated '/JQ' variants for non-JQ suffixes
+    for base_enc, suffix in repeat_info:
+        idx = suffix_sequence.index(suffix)
+        if idx > 0:
+            # number of repeats = index + 1
+            rep = '/'.join(['JQ'] * (idx + 1))
+            rep_key = f"{base_enc}/{rep}"
+            if rep_key not in encoded_words:
+                encoded_words[rep_key] = encoded_words[f"{base_enc}/{suffix}"]
+
+    # Step 7: Write overflow list
     with open(args.overflow_file, 'w') as f:
         for w in overflow:
             f.write(f"{w}\n")
 
-    # Write JSON
+    # Step 8: Write JSON output with combined forms and repeat-JQ lines
     with open(args.output_json, 'w') as f:
         f.write('{' + '\n')
-        items = sorted(encoded_words.items())
-        for i, (enc, orig) in enumerate(items):
-            line = f'"{enc}": "{orig}"'
-            f.write(line)
-            if i < len(items) - 1:
+        keys = list(encoded_words.keys())
+        for i, key in enumerate(keys):
+            val = encoded_words[key]
+            # Print raw or repeated suffix entry
+            f.write(f'"{key}": "{val}"')
+            # If single-suffix (including JQ) -> print combined form
+            if '/' in key and key.count('/') == 1:
+                combined_key = combine_suffix(key)
+                f.write(',\n')
+                f.write(f'"{combined_key}": "{val}"')
+            # If single-suffix and not repeated, add comma if not last
+            if i < len(keys) - 1:
                 f.write(',\n')
         f.write('\n}')
 

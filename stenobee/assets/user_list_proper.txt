@@ -170,8 +170,8 @@ NEC
 NES
 NFC
 NFL
-Nao
 Nan
+Nao
 Ned
 Neo
 Net
@@ -1085,7 +1085,6 @@ Zola
 Zoom
 Zora
 Zulu
-Biuaw
 Aaron
 Abbey
 Abbie
@@ -1175,6 +1174,7 @@ Bible
 Biden
 Bilbo
 Billy
+Biuaw
 Black
 Blair
 Blake
@@ -6056,6 +6056,7 @@ Stanwyck
 Starbuck
 Stefania
 Stefanie
+StenoBee
 StenoCAT
 StenoRam
 Stenomod
@@ -7537,12 +7538,6 @@ Springfield
 Springsteen
 Stairmaster
 Stanley Cup
-StenoBee
-States of America
-United States
-The United States of America
-United States of America
-The United States
 State Court
 StenoKnight
 Stenogotchi
@@ -7922,6 +7917,7 @@ Transylvanian
 Twilight Zone
 United Nation
 United States
+United States
 Van der Waals
 War And Peace
 West Virginia
@@ -8184,9 +8180,11 @@ Princess Margaret
 Revolutionary War
 Second Suite in F
 State of New York
+States of America
 The Division Bell
 The Lord's Prayer
 The Space Shuttle
+The United States
 Western Australia
 Westminster Abbey
 Black Lives Matter
@@ -8270,6 +8268,7 @@ Dutch East India Company
 Federal Trade Commission
 StenoKnight CART Service
 The Grand Budapest Hotel
+United States of America
 World Trade Organization
 Central and South America
 Emancipation Proclamation
@@ -8282,6 +8281,7 @@ Knights of the Round Table
 Gawain and the Green Knight
 Her Majesty Queen Elizabeth
 Food and Drug Administration
+The United States of America
 Rudolph the Red Nosed Reindeer
 Four Horsemen of the Apocalypse
 Hitchhiker's Guide to the Galaxy

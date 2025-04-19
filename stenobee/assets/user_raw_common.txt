@@ -113429,7 +113429,8 @@ glasses
 glasses
 glasses
 glasses
-glasswire
+glass
+wire
 glitches
 glide
 gliding
@@ -432046,3 +432047,4 @@ hyperarticulation
 enunciation
 homophones
 wedded
+juxtaposition
