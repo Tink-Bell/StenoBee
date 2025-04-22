@@ -1,6 +1,7 @@
 w
 u
 y
+a
 you
 we
 way
@@ -25,6 +26,11 @@ ow
 yew
 ewe
 yow
+I'll
+did
+I'd
+I'm
+I've
 quick
 quickly
 quiz
@@ -225,3 +231,4 @@ sissy
 sass
 wuss
 sissies
+Stenobee

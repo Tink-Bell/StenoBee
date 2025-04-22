@@ -1995,6 +1995,7 @@ Rebel
 Reese
 Regis
 Reich
+Reily
 Renee
 Renzo
 Rhett
@@ -2043,6 +2044,8 @@ Rueda
 Rufus
 Rupee
 Ryder
+Rylee
+Rylie
 Sabin
 Saint
 Sakai
@@ -3638,6 +3641,8 @@ Spanky
 Sparta
 Spears
 Spence
+Sphinx
+Sphynx
 Spider
 Spirit
 Spivey
@@ -7160,6 +7165,7 @@ Quinn Gray
 Quintilian
 Ranitidine
 Rappiccini
+Reighleigh
 Republican
 Resistance
 Resolution

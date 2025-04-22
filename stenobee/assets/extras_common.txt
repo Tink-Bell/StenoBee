@@ -1,4 +1,3 @@
-A quick brown fox jumps over the lazy dog.
 Monday
 Tuesday
 Wednesday
@@ -18,7 +17,6 @@ September
 October
 November
 December
-StenoBee
 of the
 in the
 to the
@@ -9107,3 +9105,4 @@ it is important that the
 on the eve of the
 ladies and gentlemen
 high five
+A quick brown fox jumps over the lazy dog.
